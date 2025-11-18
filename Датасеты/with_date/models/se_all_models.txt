@@ -3,8 +3,8 @@
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.672
 Method:                 Least Squares   F-statistic:                     264.6
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:34:49   Log-Likelihood:                -25829.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:05:35   Log-Likelihood:                -25829.
 No. Observations:                3725   AIC:                         5.172e+04
 Df Residuals:                    3695   BIC:                         5.191e+04
 Df Model:                          29                                         
@@ -46,7 +46,7 @@ departure_season_Зима               -14.3791     11.613     -1.238      0.21
 departure_season_Лето               -27.0775     11.522     -2.350      0.019     -49.668      -4.487
 departure_season_Осень              -15.7529     11.570     -1.361      0.173     -38.438       6.932
 ==============================================================================
-Omnibus:                        5.800   Durbin-Watson:                   1.229
+Omnibus:                        5.800   Durbin-Watson:                   1.982
 Prob(Omnibus):                  0.055   Jarque-Bera (JB):                6.419
 Skew:                          -0.036   Prob(JB):                       0.0404
 Kurtosis:                       3.190   Cond. No.                     1.23e+17
@@ -62,8 +62,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.672
 Method:                 Least Squares   F-statistic:                     264.6
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:34:49   Log-Likelihood:                -25829.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:05:35   Log-Likelihood:                -25829.
 No. Observations:                3725   AIC:                         5.172e+04
 Df Residuals:                    3695   BIC:                         5.191e+04
 Df Model:                          29                                         
@@ -104,7 +104,7 @@ departure_season_Зима               -14.3791     11.613     -1.238      0.21
 departure_season_Лето               -27.0775     11.522     -2.350      0.019     -49.668      -4.487
 departure_season_Осень              -15.7529     11.570     -1.361      0.173     -38.438       6.932
 ==============================================================================
-Omnibus:                        5.800   Durbin-Watson:                   1.229
+Omnibus:                        5.800   Durbin-Watson:                   1.982
 Prob(Omnibus):                  0.055   Jarque-Bera (JB):                6.419
 Skew:                          -0.036   Prob(JB):                       0.0404
 Kurtosis:                       3.190   Cond. No.                     1.12e+17
@@ -120,8 +120,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.672
 Method:                 Least Squares   F-statistic:                     264.6
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:34:49   Log-Likelihood:                -25829.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:05:35   Log-Likelihood:                -25829.
 No. Observations:                3725   AIC:                         5.172e+04
 Df Residuals:                    3695   BIC:                         5.191e+04
 Df Model:                          29                                         
@@ -161,7 +161,7 @@ departure_season_Зима               -14.3791     11.613     -1.238      0.21
 departure_season_Лето               -27.0775     11.522     -2.350      0.019     -49.668      -4.487
 departure_season_Осень              -15.7529     11.570     -1.361      0.173     -38.438       6.932
 ==============================================================================
-Omnibus:                        5.800   Durbin-Watson:                   1.229
+Omnibus:                        5.800   Durbin-Watson:                   1.982
 Prob(Omnibus):                  0.055   Jarque-Bera (JB):                6.419
 Skew:                          -0.036   Prob(JB):                       0.0404
 Kurtosis:                       3.190   Cond. No.                     1.15e+16
@@ -177,8 +177,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     274.2
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:34:49   Log-Likelihood:                -25829.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:05:35   Log-Likelihood:                -25829.
 No. Observations:                3725   AIC:                         5.172e+04
 Df Residuals:                    3696   BIC:                         5.190e+04
 Df Model:                          28                                         
@@ -217,7 +217,7 @@ departure_season_Зима               -14.3904     11.610     -1.239      0.21
 departure_season_Лето               -27.1017     11.515     -2.354      0.019     -49.679      -4.524
 departure_season_Осень              -15.7535     11.569     -1.362      0.173     -38.435       6.928
 ==============================================================================
-Omnibus:                        5.790   Durbin-Watson:                   1.229
+Omnibus:                        5.790   Durbin-Watson:                   1.982
 Prob(Omnibus):                  0.055   Jarque-Bera (JB):                6.410
 Skew:                          -0.036   Prob(JB):                       0.0406
 Kurtosis:                       3.190   Cond. No.                     1.15e+16
@@ -233,8 +233,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     274.2
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:34:49   Log-Likelihood:                -25829.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:05:35   Log-Likelihood:                -25829.
 No. Observations:                3725   AIC:                         5.172e+04
 Df Residuals:                    3696   BIC:                         5.190e+04
 Df Model:                          28                                         
@@ -272,7 +272,7 @@ departure_season_Зима               -14.3904     11.610     -1.239      0.21
 departure_season_Лето               -27.1017     11.515     -2.354      0.019     -49.679      -4.524
 departure_season_Осень              -15.7535     11.569     -1.362      0.173     -38.435       6.928
 ==============================================================================
-Omnibus:                        5.790   Durbin-Watson:                   1.229
+Omnibus:                        5.790   Durbin-Watson:                   1.982
 Prob(Omnibus):                  0.055   Jarque-Bera (JB):                6.410
 Skew:                          -0.036   Prob(JB):                       0.0406
 Kurtosis:                       3.190   Cond. No.                     7.88e+03
@@ -288,8 +288,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     284.4
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:34:49   Log-Likelihood:                -25829.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:05:35   Log-Likelihood:                -25829.
 No. Observations:                3725   AIC:                         5.171e+04
 Df Residuals:                    3697   BIC:                         5.189e+04
 Df Model:                          27                                         
@@ -326,7 +326,7 @@ departure_season_Зима               -14.3373     11.605     -1.235      0.21
 departure_season_Лето               -27.0941     11.514     -2.353      0.019     -49.668      -4.520
 departure_season_Осень              -15.7300     11.566     -1.360      0.174     -38.407       6.947
 ==============================================================================
-Omnibus:                        5.797   Durbin-Watson:                   1.229
+Omnibus:                        5.797   Durbin-Watson:                   1.982
 Prob(Omnibus):                  0.055   Jarque-Bera (JB):                6.415
 Skew:                          -0.036   Prob(JB):                       0.0405
 Kurtosis:                       3.190   Cond. No.                     4.75e+03
@@ -342,8 +342,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     295.4
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:34:49   Log-Likelihood:                -25829.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:05:35   Log-Likelihood:                -25829.
 No. Observations:                3725   AIC:                         5.171e+04
 Df Residuals:                    3698   BIC:                         5.188e+04
 Df Model:                          26                                         
@@ -379,7 +379,7 @@ departure_season_Зима               -14.3627     11.603     -1.238      0.21
 departure_season_Лето               -27.0820     11.512     -2.352      0.019     -49.653      -4.511
 departure_season_Осень              -15.7215     11.565     -1.359      0.174     -38.396       6.953
 ==============================================================================
-Omnibus:                        5.799   Durbin-Watson:                   1.229
+Omnibus:                        5.799   Durbin-Watson:                   1.982
 Prob(Omnibus):                  0.055   Jarque-Bera (JB):                6.418
 Skew:                          -0.036   Prob(JB):                       0.0404
 Kurtosis:                       3.190   Cond. No.                     4.58e+03
@@ -395,8 +395,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     307.3
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:34:49   Log-Likelihood:                -25829.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:05:35   Log-Likelihood:                -25829.
 No. Observations:                3725   AIC:                         5.171e+04
 Df Residuals:                    3699   BIC:                         5.187e+04
 Df Model:                          25                                         
@@ -431,7 +431,7 @@ departure_season_Зима               -14.3699     11.601     -1.239      0.21
 departure_season_Лето               -27.0722     11.510     -2.352      0.019     -49.639      -4.505
 departure_season_Осень              -15.7582     11.558     -1.363      0.173     -38.418       6.902
 ==============================================================================
-Omnibus:                        5.801   Durbin-Watson:                   1.229
+Omnibus:                        5.801   Durbin-Watson:                   1.982
 Prob(Omnibus):                  0.055   Jarque-Bera (JB):                6.421
 Skew:                          -0.036   Prob(JB):                       0.0403
 Kurtosis:                       3.190   Cond. No.                     4.55e+03
@@ -447,8 +447,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     320.2
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:34:49   Log-Likelihood:                -25829.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:05:35   Log-Likelihood:                -25829.
 No. Observations:                3725   AIC:                         5.171e+04
 Df Residuals:                    3700   BIC:                         5.186e+04
 Df Model:                          24                                         
@@ -482,7 +482,7 @@ departure_season_Зима               -14.3914     11.599     -1.241      0.21
 departure_season_Лето               -27.0818     11.509     -2.353      0.019     -49.646      -4.518
 departure_season_Осень              -15.7767     11.556     -1.365      0.172     -38.433       6.880
 ==============================================================================
-Omnibus:                        5.793   Durbin-Watson:                   1.229
+Omnibus:                        5.793   Durbin-Watson:                   1.982
 Prob(Omnibus):                  0.055   Jarque-Bera (JB):                6.409
 Skew:                          -0.037   Prob(JB):                       0.0406
 Kurtosis:                       3.190   Cond. No.                     4.52e+03
@@ -498,8 +498,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     334.2
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:34:49   Log-Likelihood:                -25830.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:05:35   Log-Likelihood:                -25830.
 No. Observations:                3725   AIC:                         5.171e+04
 Df Residuals:                    3701   BIC:                         5.186e+04
 Df Model:                          23                                         
@@ -532,7 +532,7 @@ departure_season_Зима               -14.3579     11.597     -1.238      0.21
 departure_season_Лето               -27.0500     11.507     -2.351      0.019     -49.610      -4.490
 departure_season_Осень              -15.7233     11.553     -1.361      0.174     -38.374       6.927
 ==============================================================================
-Omnibus:                        5.818   Durbin-Watson:                   1.229
+Omnibus:                        5.818   Durbin-Watson:                   1.981
 Prob(Omnibus):                  0.055   Jarque-Bera (JB):                6.438
 Skew:                          -0.037   Prob(JB):                       0.0400
 Kurtosis:                       3.190   Cond. No.                     4.26e+03
@@ -548,8 +548,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     349.5
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:34:49   Log-Likelihood:                -25830.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:05:35   Log-Likelihood:                -25830.
 No. Observations:                3725   AIC:                         5.171e+04
 Df Residuals:                    3702   BIC:                         5.185e+04
 Df Model:                          22                                         
@@ -581,7 +581,7 @@ departure_season_Зима               -14.4286     11.594     -1.244      0.21
 departure_season_Лето               -27.0420     11.505     -2.350      0.019     -49.599      -4.485
 departure_season_Осень              -15.6975     11.551     -1.359      0.174     -38.345       6.950
 ==============================================================================
-Omnibus:                        5.826   Durbin-Watson:                   1.229
+Omnibus:                        5.826   Durbin-Watson:                   1.982
 Prob(Omnibus):                  0.054   Jarque-Bera (JB):                6.440
 Skew:                          -0.037   Prob(JB):                       0.0400
 Kurtosis:                       3.190   Cond. No.                     4.26e+03
@@ -597,8 +597,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     366.2
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:34:49   Log-Likelihood:                -25830.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:05:35   Log-Likelihood:                -25830.
 No. Observations:                3725   AIC:                         5.170e+04
 Df Residuals:                    3703   BIC:                         5.184e+04
 Df Model:                          21                                         
@@ -629,7 +629,7 @@ departure_season_Зима               -14.4670     11.592     -1.248      0.21
 departure_season_Лето               -27.0227     11.504     -2.349      0.019     -49.577      -4.468
 departure_season_Осень              -15.7863     11.548     -1.367      0.172     -38.426       6.854
 ==============================================================================
-Omnibus:                        5.812   Durbin-Watson:                   1.229
+Omnibus:                        5.812   Durbin-Watson:                   1.981
 Prob(Omnibus):                  0.055   Jarque-Bera (JB):                6.422
 Skew:                          -0.037   Prob(JB):                       0.0403
 Kurtosis:                       3.189   Cond. No.                     4.26e+03
@@ -645,8 +645,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     384.6
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:34:49   Log-Likelihood:                -25830.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:05:35   Log-Likelihood:                -25830.
 No. Observations:                3725   AIC:                         5.170e+04
 Df Residuals:                    3704   BIC:                         5.183e+04
 Df Model:                          20                                         
@@ -676,7 +676,7 @@ departure_season_Зима               -14.3712     11.588     -1.240      0.21
 departure_season_Лето               -26.9285     11.500     -2.342      0.019     -49.476      -4.381
 departure_season_Осень              -15.6759     11.543     -1.358      0.175     -38.307       6.955
 ==============================================================================
-Omnibus:                        5.816   Durbin-Watson:                   1.229
+Omnibus:                        5.816   Durbin-Watson:                   1.981
 Prob(Omnibus):                  0.055   Jarque-Bera (JB):                6.430
 Skew:                          -0.037   Prob(JB):                       0.0402
 Kurtosis:                       3.189   Cond. No.                     4.26e+03
@@ -692,8 +692,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     404.9
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:34:49   Log-Likelihood:                -25830.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:05:35   Log-Likelihood:                -25830.
 No. Observations:                3725   AIC:                         5.170e+04
 Df Residuals:                    3705   BIC:                         5.182e+04
 Df Model:                          19                                         
@@ -722,7 +722,7 @@ departure_season_Зима               -14.4216     11.587     -1.245      0.21
 departure_season_Лето               -26.9986     11.498     -2.348      0.019     -49.541      -4.456
 departure_season_Осень              -15.7654     11.540     -1.366      0.172     -38.391       6.860
 ==============================================================================
-Omnibus:                        5.762   Durbin-Watson:                   1.228
+Omnibus:                        5.762   Durbin-Watson:                   1.981
 Prob(Omnibus):                  0.056   Jarque-Bera (JB):                6.369
 Skew:                          -0.036   Prob(JB):                       0.0414
 Kurtosis:                       3.189   Cond. No.                     4.22e+03
@@ -738,8 +738,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     427.4
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:34:49   Log-Likelihood:                -25830.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:05:35   Log-Likelihood:                -25830.
 No. Observations:                3725   AIC:                         5.170e+04
 Df Residuals:                    3706   BIC:                         5.182e+04
 Df Model:                          18                                         
@@ -767,7 +767,7 @@ departure_season_Зима               -14.3994     11.586     -1.243      0.21
 departure_season_Лето               -26.8849     11.495     -2.339      0.019     -49.423      -4.347
 departure_season_Осень              -15.6858     11.538     -1.359      0.174     -38.308       6.936
 ==============================================================================
-Omnibus:                        5.738   Durbin-Watson:                   1.228
+Omnibus:                        5.738   Durbin-Watson:                   1.981
 Prob(Omnibus):                  0.057   Jarque-Bera (JB):                6.335
 Skew:                          -0.037   Prob(JB):                       0.0421
 Kurtosis:                       3.188   Cond. No.                     4.22e+03
@@ -783,8 +783,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     452.6
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:34:49   Log-Likelihood:                -25830.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:05:35   Log-Likelihood:                -25830.
 No. Observations:                3725   AIC:                         5.170e+04
 Df Residuals:                    3707   BIC:                         5.181e+04
 Df Model:                          17                                         
@@ -811,7 +811,7 @@ departure_season_Зима               -14.5009     11.585     -1.252      0.21
 departure_season_Лето               -27.2713     11.486     -2.374      0.018     -49.790      -4.752
 departure_season_Осень              -15.6108     11.537     -1.353      0.176     -38.231       7.010
 ==============================================================================
-Omnibus:                        5.863   Durbin-Watson:                   1.227
+Omnibus:                        5.863   Durbin-Watson:                   1.981
 Prob(Omnibus):                  0.053   Jarque-Bera (JB):                6.500
 Skew:                          -0.036   Prob(JB):                       0.0388
 Kurtosis:                       3.191   Cond. No.                     4.22e+03
@@ -827,8 +827,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     480.7
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:34:49   Log-Likelihood:                -25831.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:05:35   Log-Likelihood:                -25831.
 No. Observations:                3725   AIC:                         5.170e+04
 Df Residuals:                    3708   BIC:                         5.180e+04
 Df Model:                          16                                         
@@ -854,7 +854,7 @@ departure_season_Зима               -14.6619     11.584     -1.266      0.20
 departure_season_Лето               -27.3191     11.486     -2.378      0.017     -49.838      -4.800
 departure_season_Осень              -16.0958     11.529     -1.396      0.163     -38.699       6.507
 ==============================================================================
-Omnibus:                        5.867   Durbin-Watson:                   1.227
+Omnibus:                        5.867   Durbin-Watson:                   1.980
 Prob(Omnibus):                  0.053   Jarque-Bera (JB):                6.514
 Skew:                          -0.036   Prob(JB):                       0.0385
 Kurtosis:                       3.192   Cond. No.                     4.21e+03
@@ -870,8 +870,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     512.7
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:34:49   Log-Likelihood:                -25832.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:05:35   Log-Likelihood:                -25832.
 No. Observations:                3725   AIC:                         5.170e+04
 Df Residuals:                    3709   BIC:                         5.179e+04
 Df Model:                          15                                         
@@ -896,7 +896,7 @@ departure_season_Зима            -14.2485     11.577     -1.231      0.219  
 departure_season_Лето            -27.0109     11.482     -2.352      0.019     -49.523      -4.498
 departure_season_Осень           -15.9427     11.528     -1.383      0.167     -38.545       6.659
 ==============================================================================
-Omnibus:                        6.142   Durbin-Watson:                   1.226
+Omnibus:                        6.142   Durbin-Watson:                   1.980
 Prob(Omnibus):                  0.046   Jarque-Bera (JB):                6.859
 Skew:                          -0.036   Prob(JB):                       0.0324
 Kurtosis:                       3.198   Cond. No.                     4.21e+03
@@ -912,8 +912,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     549.2
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:34:49   Log-Likelihood:                -25832.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:05:35   Log-Likelihood:                -25832.
 No. Observations:                3725   AIC:                         5.169e+04
 Df Residuals:                    3710   BIC:                         5.179e+04
 Df Model:                          14                                         
@@ -937,7 +937,7 @@ departure_season_Зима            -13.9492     11.575     -1.205      0.228  
 departure_season_Лето            -26.9816     11.483     -2.350      0.019     -49.495      -4.468
 departure_season_Осень           -16.0118     11.528     -1.389      0.165     -38.615       6.591
 ==============================================================================
-Omnibus:                        6.323   Durbin-Watson:                   1.225
+Omnibus:                        6.323   Durbin-Watson:                   1.980
 Prob(Omnibus):                  0.042   Jarque-Bera (JB):                7.062
 Skew:                          -0.038   Prob(JB):                       0.0293
 Kurtosis:                       3.199   Cond. No.                     4.21e+03
@@ -953,8 +953,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.674
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     591.4
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:34:49   Log-Likelihood:                -25833.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:05:35   Log-Likelihood:                -25833.
 No. Observations:                3725   AIC:                         5.169e+04
 Df Residuals:                    3711   BIC:                         5.178e+04
 Df Model:                          13                                         
@@ -977,7 +977,7 @@ departure_season_Зима            -13.8213     11.574     -1.194      0.232  
 departure_season_Лето            -26.8842     11.482     -2.341      0.019     -49.396      -4.373
 departure_season_Осень           -15.9182     11.527     -1.381      0.167     -38.519       6.683
 ==============================================================================
-Omnibus:                        6.224   Durbin-Watson:                   1.224
+Omnibus:                        6.224   Durbin-Watson:                   1.979
 Prob(Omnibus):                  0.045   Jarque-Bera (JB):                6.938
 Skew:                          -0.038   Prob(JB):                       0.0312
 Kurtosis:                       3.197   Cond. No.                     4.21e+03
@@ -993,8 +993,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                              2400.
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        16:34:49   Log-Likelihood:                         -25833.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        22:05:35   Log-Likelihood:                         -25833.
 No. Observations:                3725   AIC:                                  5.169e+04
 Df Residuals:                    3712   BIC:                                  5.177e+04
 Df Model:                          13                                                  
@@ -1016,7 +1016,7 @@ departure_season_Зима            -10.0435     10.595     -0.948      0.343  
 departure_season_Лето            -23.1622     10.525     -2.201      0.028     -43.798      -2.527
 departure_season_Осень           -12.2303     10.593     -1.155      0.248     -32.999       8.538
 ==============================================================================
-Omnibus:                        7.129   Durbin-Watson:                   1.232
+Omnibus:                        7.129   Durbin-Watson:                   1.979
 Prob(Omnibus):                  0.028   Jarque-Bera (JB):                7.832
 Skew:                          -0.054   Prob(JB):                       0.0199
 Kurtosis:                       3.197   Cond. No.                     4.13e+03
@@ -1033,8 +1033,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                              2600.
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        16:34:49   Log-Likelihood:                         -25833.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        22:05:35   Log-Likelihood:                         -25833.
 No. Observations:                3725   AIC:                                  5.169e+04
 Df Residuals:                    3713   BIC:                                  5.177e+04
 Df Model:                          12                                                  
@@ -1055,7 +1055,7 @@ region_y_Сибирский               -15.9779     13.637     -1.172      0.
 departure_season_Лето            -19.1803      9.650     -1.988      0.047     -38.101      -0.260
 departure_season_Осень            -8.2302      9.716     -0.847      0.397     -27.279      10.819
 ==============================================================================
-Omnibus:                        6.496   Durbin-Watson:                   1.229
+Omnibus:                        6.496   Durbin-Watson:                   1.978
 Prob(Omnibus):                  0.039   Jarque-Bera (JB):                7.171
 Skew:                          -0.046   Prob(JB):                       0.0277
 Kurtosis:                       3.194   Cond. No.                     4.12e+03
@@ -1072,8 +1072,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                              2837.
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        16:34:49   Log-Likelihood:                         -25834.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        22:05:35   Log-Likelihood:                         -25834.
 No. Observations:                3725   AIC:                                  5.169e+04
 Df Residuals:                    3714   BIC:                                  5.176e+04
 Df Model:                          11                                                  
@@ -1093,7 +1093,7 @@ region_y_Северо-Западный         -16.8237     10.492     -1.603   
 region_y_Сибирский               -16.3296     13.630     -1.198      0.231     -43.053      10.393
 departure_season_Лето            -16.8060      9.234     -1.820      0.069     -34.910       1.298
 ==============================================================================
-Omnibus:                        6.159   Durbin-Watson:                   1.227
+Omnibus:                        6.159   Durbin-Watson:                   1.978
 Prob(Omnibus):                  0.046   Jarque-Bera (JB):                6.810
 Skew:                          -0.041   Prob(JB):                       0.0332
 Kurtosis:                       3.193   Cond. No.                     4.11e+03
@@ -1110,8 +1110,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                              3120.
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        16:34:49   Log-Likelihood:                         -25834.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        22:05:35   Log-Likelihood:                         -25834.
 No. Observations:                3725   AIC:                                  5.169e+04
 Df Residuals:                    3715   BIC:                                  5.175e+04
 Df Model:                          10                                                  
@@ -1130,7 +1130,7 @@ sub_category_Малая техника        14.3178     11.203      1.278     
 region_y_Северо-Западный         -15.0102     10.383     -1.446      0.148     -35.367       5.346
 departure_season_Лето            -17.1181      9.231     -1.854      0.064     -35.216       0.980
 ==============================================================================
-Omnibus:                        5.727   Durbin-Watson:                   1.225
+Omnibus:                        5.727   Durbin-Watson:                   1.979
 Prob(Omnibus):                  0.057   Jarque-Bera (JB):                6.328
 Skew:                          -0.036   Prob(JB):                       0.0423
 Kurtosis:                       3.188   Cond. No.                     4.10e+03
@@ -1147,8 +1147,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                              3466.
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        16:34:49   Log-Likelihood:                         -25835.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        22:05:35   Log-Likelihood:                         -25835.
 No. Observations:                3725   AIC:                                  5.169e+04
 Df Residuals:                    3716   BIC:                                  5.174e+04
 Df Model:                           9                                                  
@@ -1166,7 +1166,7 @@ sub_category_Малая техника         9.8007     10.578      0.927     
 region_y_Северо-Западный         -15.1974     10.382     -1.464      0.143     -35.553       5.158
 departure_season_Лето            -17.3726      9.229     -1.882      0.060     -35.467       0.722
 ==============================================================================
-Omnibus:                        5.705   Durbin-Watson:                   1.222
+Omnibus:                        5.705   Durbin-Watson:                   1.979
 Prob(Omnibus):                  0.058   Jarque-Bera (JB):                6.319
 Skew:                          -0.035   Prob(JB):                       0.0424
 Kurtosis:                       3.190   Cond. No.                     3.45e+03
@@ -1183,8 +1183,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                              3899.
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        16:34:50   Log-Likelihood:                         -25836.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        22:05:35   Log-Likelihood:                         -25836.
 No. Observations:                3725   AIC:                                  5.169e+04
 Df Residuals:                    3717   BIC:                                  5.174e+04
 Df Model:                           8                                                  
@@ -1201,7 +1201,7 @@ sub_category_Малая техника         9.0370     10.544      0.857     
 region_y_Северо-Западный         -14.5782     10.360     -1.407      0.159     -34.890       5.734
 departure_season_Лето            -17.0648      9.223     -1.850      0.064     -35.147       1.018
 ==============================================================================
-Omnibus:                        6.081   Durbin-Watson:                   1.224
+Omnibus:                        6.081   Durbin-Watson:                   1.979
 Prob(Omnibus):                  0.048   Jarque-Bera (JB):                6.727
 Skew:                          -0.040   Prob(JB):                       0.0346
 Kurtosis:                       3.192   Cond. No.                     2.14e+03
@@ -1218,8 +1218,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                              4457.
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        16:34:50   Log-Likelihood:                         -25836.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        22:05:35   Log-Likelihood:                         -25836.
 No. Observations:                3725   AIC:                                  5.169e+04
 Df Residuals:                    3718   BIC:                                  5.173e+04
 Df Model:                           7                                                  
@@ -1235,7 +1235,7 @@ sub_category_Компьютеры           21.6703     13.702      1.582      0
 region_y_Северо-Западный         -14.1288     10.346     -1.366      0.172     -34.414       6.156
 departure_season_Лето            -16.6312      9.209     -1.806      0.071     -34.686       1.423
 ==============================================================================
-Omnibus:                        6.151   Durbin-Watson:                   1.226
+Omnibus:                        6.151   Durbin-Watson:                   1.979
 Prob(Omnibus):                  0.046   Jarque-Bera (JB):                6.735
 Skew:                          -0.046   Prob(JB):                       0.0345
 Kurtosis:                       3.187   Cond. No.                     2.11e+03
@@ -1252,8 +1252,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.893
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                              5198.
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        16:34:50   Log-Likelihood:                         -25837.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        22:05:35   Log-Likelihood:                         -25837.
 No. Observations:                3725   AIC:                                  5.169e+04
 Df Residuals:                    3719   BIC:                                  5.172e+04
 Df Model:                           6                                                  
@@ -1268,7 +1268,7 @@ sub_category_Компьютеры     21.4620     13.702      1.566      0.117  
 region_y_Северо-Западный   -14.6817     10.339     -1.420      0.156     -34.952       5.589
 departure_season_Лето      -16.9608      9.206     -1.842      0.066     -35.011       1.089
 ==============================================================================
-Omnibus:                        5.795   Durbin-Watson:                   1.223
+Omnibus:                        5.795   Durbin-Watson:                   1.979
 Prob(Omnibus):                  0.055   Jarque-Bera (JB):                6.360
 Skew:                          -0.041   Prob(JB):                       0.0416
 Kurtosis:                       3.185   Cond. No.                     2.11e+03
@@ -1285,8 +1285,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.893
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                              6235.
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        16:34:50   Log-Likelihood:                         -25838.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        22:05:35   Log-Likelihood:                         -25838.
 No. Observations:                3725   AIC:                                  5.169e+04
 Df Residuals:                    3720   BIC:                                  5.172e+04
 Df Model:                           5                                                  
@@ -1300,7 +1300,7 @@ category_Электроника      -15.6053      9.645     -1.618      0.106  
 sub_category_Компьютеры    21.3502     13.704      1.558      0.119      -5.518      48.219
 departure_season_Лето     -17.3839      9.203     -1.889      0.059     -35.427       0.659
 ==============================================================================
-Omnibus:                        5.419   Durbin-Watson:                   1.219
+Omnibus:                        5.419   Durbin-Watson:                   1.979
 Prob(Omnibus):                  0.067   Jarque-Bera (JB):                5.940
 Skew:                          -0.036   Prob(JB):                       0.0513
 Kurtosis:                       3.182   Cond. No.                     2.11e+03
@@ -1317,8 +1317,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.893
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                              7793.
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        16:34:50   Log-Likelihood:                         -25839.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        22:05:35   Log-Likelihood:                         -25839.
 No. Observations:                3725   AIC:                                  5.169e+04
 Df Residuals:                    3721   BIC:                                  5.171e+04
 Df Model:                           4                                                  
@@ -1331,7 +1331,7 @@ category_Электроника      -12.4156      9.305     -1.334      0.182  
 sub_category_Компьютеры    20.9759     13.702      1.531      0.126      -5.888      47.840
 departure_season_Лето     -15.4727      9.077     -1.705      0.088     -33.268       2.323
 ==============================================================================
-Omnibus:                        7.222   Durbin-Watson:                   1.229
+Omnibus:                        7.222   Durbin-Watson:                   1.980
 Prob(Omnibus):                  0.027   Jarque-Bera (JB):                7.806
 Skew:                          -0.062   Prob(JB):                       0.0202
 Kurtosis:                       3.187   Cond. No.                     2.10e+03
@@ -1348,8 +1348,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.893
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                          1.039e+04
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        16:34:50   Log-Likelihood:                         -25840.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        22:05:35   Log-Likelihood:                         -25840.
 No. Observations:                3725   AIC:                                  5.169e+04
 Df Residuals:                    3722   BIC:                                  5.170e+04
 Df Model:                           3                                                  
@@ -1361,7 +1361,7 @@ distance                    1.2567      0.008    154.281      0.000       1.241 
 sub_category_Компьютеры    11.0668     11.516      0.961      0.337     -11.512      33.645
 departure_season_Лето     -16.3471      9.054     -1.806      0.071     -34.098       1.404
 ==============================================================================
-Omnibus:                        6.238   Durbin-Watson:                   1.223
+Omnibus:                        6.238   Durbin-Watson:                   1.979
 Prob(Omnibus):                  0.044   Jarque-Bera (JB):                6.852
 Skew:                          -0.045   Prob(JB):                       0.0325
 Kurtosis:                       3.190   Cond. No.                     1.63e+03
@@ -1378,8 +1378,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.893
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                          1.558e+04
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        16:34:50   Log-Likelihood:                         -25840.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        22:05:35   Log-Likelihood:                         -25840.
 No. Observations:                3725   AIC:                                  5.168e+04
 Df Residuals:                    3723   BIC:                                  5.170e+04
 Df Model:                           2                                                  
@@ -1390,7 +1390,7 @@ Covariance Type:            nonrobust
 distance                  1.2587      0.008    159.671      0.000       1.243       1.274
 departure_season_Лето   -15.6359      9.023     -1.733      0.083     -33.327       2.055
 ==============================================================================
-Omnibus:                        6.799   Durbin-Watson:                   1.227
+Omnibus:                        6.799   Durbin-Watson:                   1.979
 Prob(Omnibus):                  0.033   Jarque-Bera (JB):                7.425
 Skew:                          -0.054   Prob(JB):                       0.0244
 Kurtosis:                       3.191   Cond. No.                     1.27e+03
@@ -1407,8 +1407,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.893
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                          3.114e+04
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        16:34:50   Log-Likelihood:                         -25842.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        22:05:35   Log-Likelihood:                         -25842.
 No. Observations:                3725   AIC:                                  5.169e+04
 Df Residuals:                    3724   BIC:                                  5.169e+04
 Df Model:                           1                                                  
@@ -1418,7 +1418,7 @@ Covariance Type:            nonrobust
 ------------------------------------------------------------------------------
 distance       1.2528      0.007    176.472      0.000       1.239       1.267
 ==============================================================================
-Omnibus:                        5.893   Durbin-Watson:                   1.218
+Omnibus:                        5.893   Durbin-Watson:                   1.978
 Prob(Omnibus):                  0.053   Jarque-Bera (JB):                6.534
 Skew:                          -0.037   Prob(JB):                       0.0381
 Kurtosis:                       3.192   Cond. No.                         1.00

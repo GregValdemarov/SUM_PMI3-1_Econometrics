@@ -3,8 +3,8 @@
 Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.676
 Method:                 Least Squares   F-statistic:                     268.1
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:33:56   Log-Likelihood:                -25641.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:04:46   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.134e+04
 Df Residuals:                    3683   BIC:                         5.153e+04
 Df Model:                          29                                         
@@ -46,7 +46,7 @@ departure_season_Зима               -17.0819     11.278     -1.515      0.13
 departure_season_Лето                 5.0621     11.275      0.449      0.653     -17.043      27.167
 departure_season_Осень               -1.0814     11.398     -0.095      0.924     -23.428      21.265
 ==============================================================================
-Omnibus:                        8.617   Durbin-Watson:                   1.216
+Omnibus:                        8.617   Durbin-Watson:                   1.993
 Prob(Omnibus):                  0.013   Jarque-Bera (JB):               10.376
 Skew:                           0.015   Prob(JB):                      0.00558
 Kurtosis:                       3.257   Cond. No.                     9.87e+16
@@ -62,8 +62,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.676
 Method:                 Least Squares   F-statistic:                     268.1
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:33:56   Log-Likelihood:                -25641.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:04:46   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.134e+04
 Df Residuals:                    3683   BIC:                         5.153e+04
 Df Model:                          29                                         
@@ -104,7 +104,7 @@ departure_season_Зима               -17.0819     11.278     -1.515      0.13
 departure_season_Лето                 5.0621     11.275      0.449      0.653     -17.043      27.167
 departure_season_Осень               -1.0814     11.398     -0.095      0.924     -23.428      21.265
 ==============================================================================
-Omnibus:                        8.617   Durbin-Watson:                   1.216
+Omnibus:                        8.617   Durbin-Watson:                   1.993
 Prob(Omnibus):                  0.013   Jarque-Bera (JB):               10.376
 Skew:                           0.015   Prob(JB):                      0.00558
 Kurtosis:                       3.257   Cond. No.                     1.10e+17
@@ -120,8 +120,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.676
 Method:                 Least Squares   F-statistic:                     277.8
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:33:56   Log-Likelihood:                -25641.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:04:46   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.134e+04
 Df Residuals:                    3684   BIC:                         5.152e+04
 Df Model:                          28                                         
@@ -161,7 +161,7 @@ departure_season_Зима               -17.0844     11.277     -1.515      0.13
 departure_season_Лето                 5.0777     11.270      0.451      0.652     -17.018      27.174
 departure_season_Осень               -1.1001     11.392     -0.097      0.923     -23.435      21.234
 ==============================================================================
-Omnibus:                        8.617   Durbin-Watson:                   1.216
+Omnibus:                        8.617   Durbin-Watson:                   1.993
 Prob(Omnibus):                  0.013   Jarque-Bera (JB):               10.376
 Skew:                           0.015   Prob(JB):                      0.00558
 Kurtosis:                       3.257   Cond. No.                     1.18e+17
@@ -177,8 +177,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.676
 Method:                 Least Squares   F-statistic:                     288.1
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:33:56   Log-Likelihood:                -25641.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:04:46   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.134e+04
 Df Residuals:                    3685   BIC:                         5.151e+04
 Df Model:                          27                                         
@@ -217,7 +217,7 @@ store_type_Розничный                 -8.5672     15.401     -0.556     
 departure_season_Зима               -16.5378      9.752     -1.696      0.090     -35.658       2.582
 departure_season_Лето                 5.6216      9.761      0.576      0.565     -13.516      24.759
 ==============================================================================
-Omnibus:                        8.599   Durbin-Watson:                   1.216
+Omnibus:                        8.599   Durbin-Watson:                   1.993
 Prob(Omnibus):                  0.014   Jarque-Bera (JB):               10.352
 Skew:                           0.015   Prob(JB):                      0.00565
 Kurtosis:                       3.257   Cond. No.                     8.25e+16
@@ -233,8 +233,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.676
 Method:                 Least Squares   F-statistic:                     299.3
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:33:56   Log-Likelihood:                -25641.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:04:46   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.134e+04
 Df Residuals:                    3686   BIC:                         5.150e+04
 Df Model:                          26                                         
@@ -272,7 +272,7 @@ store_type_Розничный                 -8.4900     15.386     -0.552     
 departure_season_Зима               -16.5397      9.751     -1.696      0.090     -35.657       2.578
 departure_season_Лето                 5.6403      9.759      0.578      0.563     -13.492      24.773
 ==============================================================================
-Omnibus:                        8.591   Durbin-Watson:                   1.216
+Omnibus:                        8.591   Durbin-Watson:                   1.993
 Prob(Omnibus):                  0.014   Jarque-Bera (JB):               10.341
 Skew:                           0.015   Prob(JB):                      0.00568
 Kurtosis:                       3.257   Cond. No.                     9.07e+16
@@ -288,8 +288,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.676
 Method:                 Least Squares   F-statistic:                     311.3
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:33:56   Log-Likelihood:                -25641.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:04:46   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.133e+04
 Df Residuals:                    3687   BIC:                         5.150e+04
 Df Model:                          25                                         
@@ -326,7 +326,7 @@ store_type_Розничный                 -8.4334     15.378     -0.548     
 departure_season_Зима               -16.5659      9.748     -1.699      0.089     -35.677       2.545
 departure_season_Лето                 5.6217      9.756      0.576      0.565     -13.507      24.750
 ==============================================================================
-Omnibus:                        8.563   Durbin-Watson:                   1.216
+Omnibus:                        8.563   Durbin-Watson:                   1.993
 Prob(Omnibus):                  0.014   Jarque-Bera (JB):               10.302
 Skew:                           0.015   Prob(JB):                      0.00579
 Kurtosis:                       3.256   Cond. No.                     4.83e+16
@@ -342,8 +342,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.676
 Method:                 Least Squares   F-statistic:                     324.4
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:33:56   Log-Likelihood:                -25641.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:04:46   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.133e+04
 Df Residuals:                    3688   BIC:                         5.149e+04
 Df Model:                          24                                         
@@ -379,7 +379,7 @@ store_type_Розничный                 -8.4519     15.376     -0.550     
 departure_season_Зима               -16.5730      9.746     -1.700      0.089     -35.681       2.535
 departure_season_Лето                 5.6667      9.751      0.581      0.561     -13.451      24.784
 ==============================================================================
-Omnibus:                        8.565   Durbin-Watson:                   1.216
+Omnibus:                        8.565   Durbin-Watson:                   1.993
 Prob(Omnibus):                  0.014   Jarque-Bera (JB):               10.305
 Skew:                           0.015   Prob(JB):                      0.00579
 Kurtosis:                       3.256   Cond. No.                     7.51e+16
@@ -395,8 +395,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.677
 Method:                 Least Squares   F-statistic:                     338.6
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:33:56   Log-Likelihood:                -25641.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:04:46   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.133e+04
 Df Residuals:                    3689   BIC:                         5.148e+04
 Df Model:                          23                                         
@@ -431,15 +431,15 @@ store_type_Розничный                 -6.9826     12.543     -0.557     
 departure_season_Зима               -16.5864      9.745     -1.702      0.089     -35.692       2.519
 departure_season_Лето                 5.6204      9.746      0.577      0.564     -13.487      24.728
 ==============================================================================
-Omnibus:                        8.537   Durbin-Watson:                   1.216
+Omnibus:                        8.537   Durbin-Watson:                   1.993
 Prob(Omnibus):                  0.014   Jarque-Bera (JB):               10.268
 Skew:                           0.015   Prob(JB):                      0.00589
-Kurtosis:                       3.256   Cond. No.                     3.94e+17
+Kurtosis:                       3.256   Cond. No.                     3.97e+17
 ==============================================================================
 
 Notes:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[2] The smallest eigenvalue is 7.74e-27. This might indicate that there are
+[2] The smallest eigenvalue is 7.61e-27. This might indicate that there are
 strong multicollinearity problems or that the design matrix is singular.
 
                             OLS Regression Results                            
@@ -447,8 +447,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.677
 Method:                 Least Squares   F-statistic:                     354.1
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:33:57   Log-Likelihood:                -25641.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:04:46   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.133e+04
 Df Residuals:                    3690   BIC:                         5.147e+04
 Df Model:                          22                                         
@@ -482,15 +482,15 @@ store_type_Розничный                 -6.9826     12.541     -0.557     
 departure_season_Зима               -16.6069      9.743     -1.705      0.088     -35.709       2.495
 departure_season_Лето                 5.6424      9.744      0.579      0.563     -13.461      24.746
 ==============================================================================
-Omnibus:                        8.511   Durbin-Watson:                   1.216
+Omnibus:                        8.511   Durbin-Watson:                   1.993
 Prob(Omnibus):                  0.014   Jarque-Bera (JB):               10.231
 Skew:                           0.015   Prob(JB):                      0.00600
-Kurtosis:                       3.255   Cond. No.                     1.44e+19
+Kurtosis:                       3.255   Cond. No.                     8.24e+19
 ==============================================================================
 
 Notes:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[2] The smallest eigenvalue is 5.76e-30. This might indicate that there are
+[2] The smallest eigenvalue is 1.76e-31. This might indicate that there are
 strong multicollinearity problems or that the design matrix is singular.
 
                             OLS Regression Results                            
@@ -498,8 +498,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.677
 Method:                 Least Squares   F-statistic:                     371.0
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:33:57   Log-Likelihood:                -25641.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:04:46   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.133e+04
 Df Residuals:                    3691   BIC:                         5.146e+04
 Df Model:                          21                                         
@@ -532,15 +532,15 @@ store_type_Розничный                 -6.9976     12.540     -0.558     
 departure_season_Зима               -16.6519      9.740     -1.710      0.087     -35.748       2.445
 departure_season_Лето                 5.6416      9.742      0.579      0.563     -13.460      24.743
 ==============================================================================
-Omnibus:                        8.516   Durbin-Watson:                   1.216
+Omnibus:                        8.516   Durbin-Watson:                   1.993
 Prob(Omnibus):                  0.014   Jarque-Bera (JB):               10.238
 Skew:                           0.015   Prob(JB):                      0.00598
-Kurtosis:                       3.255   Cond. No.                     3.14e+18
+Kurtosis:                       3.255   Cond. No.                     3.57e+21
 ==============================================================================
 
 Notes:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[2] The smallest eigenvalue is 1.22e-28. This might indicate that there are
+[2] The smallest eigenvalue is 9.42e-35. This might indicate that there are
 strong multicollinearity problems or that the design matrix is singular.
 
                             OLS Regression Results                            
@@ -548,8 +548,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.677
 Method:                 Least Squares   F-statistic:                     389.6
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:33:57   Log-Likelihood:                -25641.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:04:46   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.132e+04
 Df Residuals:                    3692   BIC:                         5.145e+04
 Df Model:                          20                                         
@@ -581,15 +581,15 @@ store_type_Розничный                 -7.1145     12.535     -0.568     
 departure_season_Зима               -16.6348      9.739     -1.708      0.088     -35.729       2.459
 departure_season_Лето                 5.5277      9.738      0.568      0.570     -13.564      24.619
 ==============================================================================
-Omnibus:                        8.493   Durbin-Watson:                   1.216
+Omnibus:                        8.493   Durbin-Watson:                   1.993
 Prob(Omnibus):                  0.014   Jarque-Bera (JB):               10.205
 Skew:                           0.015   Prob(JB):                      0.00608
-Kurtosis:                       3.255   Cond. No.                     5.63e+19
+Kurtosis:                       3.255   Cond. No.                     1.04e+19
 ==============================================================================
 
 Notes:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[2] The smallest eigenvalue is 3.77e-31. This might indicate that there are
+[2] The smallest eigenvalue is 1.11e-29. This might indicate that there are
 strong multicollinearity problems or that the design matrix is singular.
 
                             OLS Regression Results                            
@@ -597,8 +597,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.677
 Method:                 Least Squares   F-statistic:                     389.6
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:33:57   Log-Likelihood:                -25641.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:04:46   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.132e+04
 Df Residuals:                    3692   BIC:                         5.145e+04
 Df Model:                          20                                         
@@ -629,15 +629,15 @@ store_type_Розничный                 -7.1145     12.535     -0.568     
 departure_season_Зима               -16.6348      9.739     -1.708      0.088     -35.729       2.459
 departure_season_Лето                 5.5277      9.738      0.568      0.570     -13.564      24.619
 ==============================================================================
-Omnibus:                        8.493   Durbin-Watson:                   1.216
+Omnibus:                        8.493   Durbin-Watson:                   1.993
 Prob(Omnibus):                  0.014   Jarque-Bera (JB):               10.205
 Skew:                           0.015   Prob(JB):                      0.00608
-Kurtosis:                       3.255   Cond. No.                     7.75e+18
+Kurtosis:                       3.255   Cond. No.                     3.03e+20
 ==============================================================================
 
 Notes:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[2] The smallest eigenvalue is 1.99e-29. This might indicate that there are
+[2] The smallest eigenvalue is 1.3e-32. This might indicate that there are
 strong multicollinearity problems or that the design matrix is singular.
 
                             OLS Regression Results                            
@@ -645,8 +645,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.677
 Method:                 Least Squares   F-statistic:                     410.2
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:33:57   Log-Likelihood:                -25641.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:04:46   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.132e+04
 Df Residuals:                    3693   BIC:                         5.145e+04
 Df Model:                          19                                         
@@ -676,15 +676,15 @@ store_type_Розничный                 -7.1071     12.534     -0.567     
 departure_season_Зима               -16.6590      9.738     -1.711      0.087     -35.750       2.432
 departure_season_Лето                 5.4512      9.734      0.560      0.576     -13.634      24.536
 ==============================================================================
-Omnibus:                        8.502   Durbin-Watson:                   1.216
+Omnibus:                        8.502   Durbin-Watson:                   1.993
 Prob(Omnibus):                  0.014   Jarque-Bera (JB):               10.220
 Skew:                           0.015   Prob(JB):                      0.00604
-Kurtosis:                       3.255   Cond. No.                     9.55e+18
+Kurtosis:                       3.255   Cond. No.                     5.07e+19
 ==============================================================================
 
 Notes:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[2] The smallest eigenvalue is 1.31e-29. This might indicate that there are
+[2] The smallest eigenvalue is 4.65e-31. This might indicate that there are
 strong multicollinearity problems or that the design matrix is singular.
 
                             OLS Regression Results                            
@@ -692,8 +692,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.677
 Method:                 Least Squares   F-statistic:                     433.1
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:33:57   Log-Likelihood:                -25641.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:04:46   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.132e+04
 Df Residuals:                    3694   BIC:                         5.144e+04
 Df Model:                          18                                         
@@ -722,15 +722,15 @@ store_type_Розничный                 -6.9696     12.529     -0.556     
 departure_season_Зима               -16.5716      9.735     -1.702      0.089     -35.657       2.514
 departure_season_Лето                 5.5225      9.732      0.567      0.570     -13.558      24.603
 ==============================================================================
-Omnibus:                        8.526   Durbin-Watson:                   1.215
+Omnibus:                        8.526   Durbin-Watson:                   1.993
 Prob(Omnibus):                  0.014   Jarque-Bera (JB):               10.252
 Skew:                           0.015   Prob(JB):                      0.00594
-Kurtosis:                       3.256   Cond. No.                     6.04e+19
+Kurtosis:                       3.256   Cond. No.                     3.67e+18
 ==============================================================================
 
 Notes:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[2] The smallest eigenvalue is 3.27e-31. This might indicate that there are
+[2] The smallest eigenvalue is 8.86e-29. This might indicate that there are
 strong multicollinearity problems or that the design matrix is singular.
 
                             OLS Regression Results                            
@@ -738,8 +738,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.678
 Model:                            OLS   Adj. R-squared:                  0.677
 Method:                 Least Squares   F-statistic:                     458.7
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:33:57   Log-Likelihood:                -25641.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:04:46   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.132e+04
 Df Residuals:                    3695   BIC:                         5.143e+04
 Df Model:                          17                                         
@@ -767,15 +767,15 @@ store_type_Розничный                 -3.8832     10.909     -0.356     
 departure_season_Зима               -16.5500      9.734     -1.700      0.089     -35.634       2.534
 departure_season_Лето                 5.5381      9.731      0.569      0.569     -13.540      24.617
 ==============================================================================
-Omnibus:                        8.590   Durbin-Watson:                   1.216
+Omnibus:                        8.590   Durbin-Watson:                   1.993
 Prob(Omnibus):                  0.014   Jarque-Bera (JB):               10.335
 Skew:                           0.016   Prob(JB):                      0.00570
-Kurtosis:                       3.257   Cond. No.                     1.08e+19
+Kurtosis:                       3.257   Cond. No.                     3.09e+18
 ==============================================================================
 
 Notes:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[2] The smallest eigenvalue is 1.02e-29. This might indicate that there are
+[2] The smallest eigenvalue is 1.25e-28. This might indicate that there are
 strong multicollinearity problems or that the design matrix is singular.
 
                             OLS Regression Results                            
@@ -783,8 +783,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.678
 Model:                            OLS   Adj. R-squared:                  0.677
 Method:                 Least Squares   F-statistic:                     487.4
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:33:57   Log-Likelihood:                -25642.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:04:46   Log-Likelihood:                -25642.
 No. Observations:                3713   AIC:                         5.132e+04
 Df Residuals:                    3696   BIC:                         5.142e+04
 Df Model:                          16                                         
@@ -811,15 +811,15 @@ region_y_Южный                       12.6713     15.395      0.823      0.4
 departure_season_Зима               -16.6052      9.731     -1.706      0.088     -35.684       2.474
 departure_season_Лето                 5.5527      9.730      0.571      0.568     -13.523      24.629
 ==============================================================================
-Omnibus:                        8.655   Durbin-Watson:                   1.215
+Omnibus:                        8.655   Durbin-Watson:                   1.993
 Prob(Omnibus):                  0.013   Jarque-Bera (JB):               10.424
 Skew:                           0.016   Prob(JB):                      0.00545
-Kurtosis:                       3.258   Cond. No.                     2.49e+19
+Kurtosis:                       3.258   Cond. No.                     4.02e+18
 ==============================================================================
 
 Notes:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[2] The smallest eigenvalue is 1.92e-30. This might indicate that there are
+[2] The smallest eigenvalue is 7.39e-29. This might indicate that there are
 strong multicollinearity problems or that the design matrix is singular.
 
                             OLS Regression Results                            
@@ -827,8 +827,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.678
 Model:                            OLS   Adj. R-squared:                  0.677
 Method:                 Least Squares   F-statistic:                     520.0
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:33:57   Log-Likelihood:                -25642.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:04:46   Log-Likelihood:                -25642.
 No. Observations:                3713   AIC:                         5.132e+04
 Df Residuals:                    3697   BIC:                         5.141e+04
 Df Model:                          15                                         
@@ -854,15 +854,15 @@ region_y_Центральный                 15.8649     15.446      1.027   
 region_y_Южный                       12.6636     15.394      0.823      0.411     -17.518      42.845
 departure_season_Зима               -18.5077      9.141     -2.025      0.043     -36.430      -0.585
 ==============================================================================
-Omnibus:                        8.715   Durbin-Watson:                   1.215
+Omnibus:                        8.715   Durbin-Watson:                   1.992
 Prob(Omnibus):                  0.013   Jarque-Bera (JB):               10.508
 Skew:                           0.016   Prob(JB):                      0.00523
-Kurtosis:                       3.259   Cond. No.                     2.52e+21
+Kurtosis:                       3.259   Cond. No.                     4.03e+18
 ==============================================================================
 
 Notes:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[2] The smallest eigenvalue is 1.87e-34. This might indicate that there are
+[2] The smallest eigenvalue is 7.34e-29. This might indicate that there are
 strong multicollinearity problems or that the design matrix is singular.
 
                             OLS Regression Results                            
@@ -870,8 +870,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.678
 Model:                            OLS   Adj. R-squared:                  0.677
 Method:                 Least Squares   F-statistic:                     557.2
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:33:57   Log-Likelihood:                -25642.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:04:46   Log-Likelihood:                -25642.
 No. Observations:                3713   AIC:                         5.131e+04
 Df Residuals:                    3698   BIC:                         5.141e+04
 Df Model:                          14                                         
@@ -896,15 +896,15 @@ region_y_Центральный                 15.8230     15.445      1.024   
 region_y_Южный                       12.5754     15.392      0.817      0.414     -17.602      42.753
 departure_season_Зима               -18.4913      9.141     -2.023      0.043     -36.413      -0.570
 ==============================================================================
-Omnibus:                        8.841   Durbin-Watson:                   1.215
+Omnibus:                        8.841   Durbin-Watson:                   1.991
 Prob(Omnibus):                  0.012   Jarque-Bera (JB):               10.667
 Skew:                           0.018   Prob(JB):                      0.00483
-Kurtosis:                       3.260   Cond. No.                     3.08e+19
+Kurtosis:                       3.260   Cond. No.                     3.87e+18
 ==============================================================================
 
 Notes:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[2] The smallest eigenvalue is 1.26e-30. This might indicate that there are
+[2] The smallest eigenvalue is 7.98e-29. This might indicate that there are
 strong multicollinearity problems or that the design matrix is singular.
 
                             OLS Regression Results                            
@@ -912,8 +912,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.678
 Model:                            OLS   Adj. R-squared:                  0.677
 Method:                 Least Squares   F-statistic:                     600.2
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:33:57   Log-Likelihood:                -25642.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:04:46   Log-Likelihood:                -25642.
 No. Observations:                3713   AIC:                         5.131e+04
 Df Residuals:                    3699   BIC:                         5.140e+04
 Df Model:                          13                                         
@@ -937,15 +937,15 @@ region_y_Центральный                 15.8019     15.443      1.023   
 region_y_Южный                       12.5502     15.390      0.815      0.415     -17.624      42.725
 departure_season_Зима               -18.6888      9.131     -2.047      0.041     -36.592      -0.786
 ==============================================================================
-Omnibus:                        8.830   Durbin-Watson:                   1.215
+Omnibus:                        8.830   Durbin-Watson:                   1.991
 Prob(Omnibus):                  0.012   Jarque-Bera (JB):               10.643
 Skew:                           0.019   Prob(JB):                      0.00489
-Kurtosis:                       3.260   Cond. No.                     1.01e+19
+Kurtosis:                       3.260   Cond. No.                     3.52e+18
 ==============================================================================
 
 Notes:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[2] The smallest eigenvalue is 1.17e-29. This might indicate that there are
+[2] The smallest eigenvalue is 9.61e-29. This might indicate that there are
 strong multicollinearity problems or that the design matrix is singular.
 
                             OLS Regression Results                            
@@ -953,8 +953,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.678
 Model:                            OLS   Adj. R-squared:                  0.677
 Method:                 Least Squares   F-statistic:                     650.3
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:33:57   Log-Likelihood:                -25642.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:04:46   Log-Likelihood:                -25642.
 No. Observations:                3713   AIC:                         5.131e+04
 Df Residuals:                    3700   BIC:                         5.139e+04
 Df Model:                          12                                         
@@ -977,15 +977,15 @@ region_y_Центральный                 10.1958     12.663      0.805   
 region_y_Южный                        6.9379     12.591      0.551      0.582     -17.748      31.624
 departure_season_Зима               -18.8695      9.126     -2.068      0.039     -36.762      -0.977
 ==============================================================================
-Omnibus:                        8.857   Durbin-Watson:                   1.214
+Omnibus:                        8.857   Durbin-Watson:                   1.991
 Prob(Omnibus):                  0.012   Jarque-Bera (JB):               10.693
 Skew:                           0.017   Prob(JB):                      0.00477
-Kurtosis:                       3.261   Cond. No.                     1.12e+19
+Kurtosis:                       3.261   Cond. No.                     3.41e+18
 ==============================================================================
 
 Notes:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[2] The smallest eigenvalue is 9.45e-30. This might indicate that there are
+[2] The smallest eigenvalue is 1.03e-28. This might indicate that there are
 strong multicollinearity problems or that the design matrix is singular.
 
                             OLS Regression Results                            
@@ -993,8 +993,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.678
 Model:                            OLS   Adj. R-squared:                  0.677
 Method:                 Least Squares   F-statistic:                     709.5
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):               0.00
-Time:                        16:33:57   Log-Likelihood:                -25642.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):               0.00
+Time:                        22:04:46   Log-Likelihood:                -25642.
 No. Observations:                3713   AIC:                         5.131e+04
 Df Residuals:                    3701   BIC:                         5.138e+04
 Df Model:                          11                                         
@@ -1016,15 +1016,15 @@ region_y_Уральский                   18.9525     13.409      1.413     
 region_y_Центральный                  6.7149     10.973      0.612      0.541     -14.799      28.229
 departure_season_Зима               -18.8397      9.125     -2.065      0.039     -36.731      -0.949
 ==============================================================================
-Omnibus:                        8.845   Durbin-Watson:                   1.214
+Omnibus:                        8.845   Durbin-Watson:                   1.991
 Prob(Omnibus):                  0.012   Jarque-Bera (JB):               10.684
 Skew:                           0.017   Prob(JB):                      0.00479
-Kurtosis:                       3.261   Cond. No.                     4.65e+19
+Kurtosis:                       3.261   Cond. No.                     3.98e+18
 ==============================================================================
 
 Notes:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[2] The smallest eigenvalue is 5.51e-31. This might indicate that there are
+[2] The smallest eigenvalue is 7.55e-29. This might indicate that there are
 strong multicollinearity problems or that the design matrix is singular.
 
                                  OLS Regression Results                                
@@ -1032,8 +1032,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.895
 Model:                            OLS   Adj. R-squared (uncentered):              0.895
 Method:                 Least Squares   F-statistic:                              2863.
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        16:33:57   Log-Likelihood:                         -25642.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        22:04:46   Log-Likelihood:                         -25642.
 No. Observations:                3713   AIC:                                  5.131e+04
 Df Residuals:                    3702   BIC:                                  5.138e+04
 Df Model:                          11                                                  
@@ -1054,16 +1054,16 @@ region_y_Уральский                   17.1222     12.823      1.335     
 region_y_Центральный                  4.9163     10.275      0.478      0.632     -15.229      25.061
 departure_season_Зима               -19.8104      8.885     -2.230      0.026     -37.230      -2.391
 ==============================================================================
-Omnibus:                        9.147   Durbin-Watson:                   1.208
+Omnibus:                        9.147   Durbin-Watson:                   1.991
 Prob(Omnibus):                  0.010   Jarque-Bera (JB):               10.958
 Skew:                           0.029   Prob(JB):                      0.00417
-Kurtosis:                       3.260   Cond. No.                     3.80e+18
+Kurtosis:                       3.260   Cond. No.                     1.96e+19
 ==============================================================================
 
 Notes:
 [1] R² is computed without centering (uncentered) since the model does not contain a constant.
 [2] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[3] The smallest eigenvalue is 8.29e-29. This might indicate that there are
+[3] The smallest eigenvalue is 3.12e-30. This might indicate that there are
 strong multicollinearity problems or that the design matrix is singular.
 
                                  OLS Regression Results                                
@@ -1071,8 +1071,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.895
 Model:                            OLS   Adj. R-squared (uncentered):              0.895
 Method:                 Least Squares   F-statistic:                              3150.
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        16:33:57   Log-Likelihood:                         -25643.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        22:04:46   Log-Likelihood:                         -25643.
 No. Observations:                3713   AIC:                                  5.131e+04
 Df Residuals:                    3703   BIC:                                  5.137e+04
 Df Model:                          10                                                  
@@ -1092,16 +1092,16 @@ region_y_Сибирский                   17.1605     14.025      1.224     
 region_y_Уральский                   15.9778     12.597      1.268      0.205      -8.720      40.675
 departure_season_Зима               -19.3857      8.839     -2.193      0.028     -36.716      -2.055
 ==============================================================================
-Omnibus:                        8.911   Durbin-Watson:                   1.210
+Omnibus:                        8.911   Durbin-Watson:                   1.990
 Prob(Omnibus):                  0.012   Jarque-Bera (JB):               10.697
 Skew:                           0.024   Prob(JB):                      0.00476
-Kurtosis:                       3.258   Cond. No.                     5.66e+18
+Kurtosis:                       3.258   Cond. No.                     4.03e+19
 ==============================================================================
 
 Notes:
 [1] R² is computed without centering (uncentered) since the model does not contain a constant.
 [2] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[3] The smallest eigenvalue is 3.73e-29. This might indicate that there are
+[3] The smallest eigenvalue is 7.36e-31. This might indicate that there are
 strong multicollinearity problems or that the design matrix is singular.
 
                                  OLS Regression Results                                
@@ -1109,8 +1109,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.895
 Model:                            OLS   Adj. R-squared (uncentered):              0.895
 Method:                 Least Squares   F-statistic:                              3501.
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        16:33:57   Log-Likelihood:                         -25643.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        22:04:46   Log-Likelihood:                         -25643.
 No. Observations:                3713   AIC:                                  5.130e+04
 Df Residuals:                    3704   BIC:                                  5.136e+04
 Df Model:                           9                                                  
@@ -1129,16 +1129,16 @@ region_y_Сибирский              17.6133     14.005      1.258      0.20
 region_y_Уральский              16.4727     12.572      1.310      0.190      -8.176      41.122
 departure_season_Зима          -19.0647      8.824     -2.160      0.031     -36.366      -1.764
 ==============================================================================
-Omnibus:                        8.567   Durbin-Watson:                   1.213
+Omnibus:                        8.567   Durbin-Watson:                   1.991
 Prob(Omnibus):                  0.014   Jarque-Bera (JB):               10.269
 Skew:                           0.020   Prob(JB):                      0.00589
-Kurtosis:                       3.255   Cond. No.                     3.77e+18
+Kurtosis:                       3.255   Cond. No.                     2.12e+19
 ==============================================================================
 
 Notes:
 [1] R² is computed without centering (uncentered) since the model does not contain a constant.
 [2] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[3] The smallest eigenvalue is 8.4e-29. This might indicate that there are
+[3] The smallest eigenvalue is 2.65e-30. This might indicate that there are
 strong multicollinearity problems or that the design matrix is singular.
 
                                  OLS Regression Results                                
@@ -1146,8 +1146,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.895
 Model:                            OLS   Adj. R-squared (uncentered):              0.895
 Method:                 Least Squares   F-statistic:                              3939.
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        16:33:57   Log-Likelihood:                         -25643.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        22:04:46   Log-Likelihood:                         -25643.
 No. Observations:                3713   AIC:                                  5.130e+04
 Df Residuals:                    3705   BIC:                                  5.135e+04
 Df Model:                           8                                                  
@@ -1165,16 +1165,16 @@ region_y_Сибирский          18.1260     13.988      1.296      0.195   
 region_y_Уральский          16.6466     12.569      1.324      0.185      -7.996      41.290
 departure_season_Зима      -18.8419      8.819     -2.137      0.033     -36.132      -1.552
 ==============================================================================
-Omnibus:                        8.522   Durbin-Watson:                   1.213
+Omnibus:                        8.522   Durbin-Watson:                   1.991
 Prob(Omnibus):                  0.014   Jarque-Bera (JB):               10.224
 Skew:                           0.018   Prob(JB):                      0.00602
-Kurtosis:                       3.255   Cond. No.                     4.22e+18
+Kurtosis:                       3.255   Cond. No.                     1.27e+19
 ==============================================================================
 
 Notes:
 [1] R² is computed without centering (uncentered) since the model does not contain a constant.
 [2] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[3] The smallest eigenvalue is 6.72e-29. This might indicate that there are
+[3] The smallest eigenvalue is 7.4e-30. This might indicate that there are
 strong multicollinearity problems or that the design matrix is singular.
 
                                  OLS Regression Results                                
@@ -1182,8 +1182,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.895
 Model:                            OLS   Adj. R-squared (uncentered):              0.895
 Method:                 Least Squares   F-statistic:                              4502.
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        16:33:57   Log-Likelihood:                         -25644.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        22:04:46   Log-Likelihood:                         -25644.
 No. Observations:                3713   AIC:                                  5.130e+04
 Df Residuals:                    3706   BIC:                                  5.134e+04
 Df Model:                           7                                                  
@@ -1200,16 +1200,16 @@ region_y_Сибирский          18.5929     13.980      1.330      0.184   
 region_y_Уральский          16.4827     12.568      1.311      0.190      -8.158      41.123
 departure_season_Зима      -18.6886      8.817     -2.120      0.034     -35.976      -1.401
 ==============================================================================
-Omnibus:                        8.479   Durbin-Watson:                   1.213
+Omnibus:                        8.479   Durbin-Watson:                   1.991
 Prob(Omnibus):                  0.014   Jarque-Bera (JB):               10.155
 Skew:                           0.019   Prob(JB):                      0.00623
-Kurtosis:                       3.253   Cond. No.                     5.07e+18
+Kurtosis:                       3.253   Cond. No.                     2.08e+19
 ==============================================================================
 
 Notes:
 [1] R² is computed without centering (uncentered) since the model does not contain a constant.
 [2] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[3] The smallest eigenvalue is 4.64e-29. This might indicate that there are
+[3] The smallest eigenvalue is 2.77e-30. This might indicate that there are
 strong multicollinearity problems or that the design matrix is singular.
 
                                  OLS Regression Results                                
@@ -1217,8 +1217,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.895
 Model:                            OLS   Adj. R-squared (uncentered):              0.895
 Method:                 Least Squares   F-statistic:                              5251.
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        16:33:57   Log-Likelihood:                         -25644.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        22:04:46   Log-Likelihood:                         -25644.
 No. Observations:                3713   AIC:                                  5.130e+04
 Df Residuals:                    3707   BIC:                                  5.134e+04
 Df Model:                           6                                                  
@@ -1234,16 +1234,16 @@ region_y_Северо-Западный    29.7727      9.652      3.084      0.0
 region_y_Сибирский          16.6007     13.898      1.194      0.232     -10.648      43.849
 departure_season_Зима      -17.9973      8.802     -2.045      0.041     -35.255      -0.739
 ==============================================================================
-Omnibus:                        8.215   Durbin-Watson:                   1.217
+Omnibus:                        8.215   Durbin-Watson:                   1.989
 Prob(Omnibus):                  0.016   Jarque-Bera (JB):                9.863
 Skew:                           0.008   Prob(JB):                      0.00722
-Kurtosis:                       3.252   Cond. No.                     3.54e+18
+Kurtosis:                       3.252   Cond. No.                     8.36e+18
 ==============================================================================
 
 Notes:
 [1] R² is computed without centering (uncentered) since the model does not contain a constant.
 [2] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[3] The smallest eigenvalue is 9.52e-29. This might indicate that there are
+[3] The smallest eigenvalue is 1.71e-29. This might indicate that there are
 strong multicollinearity problems or that the design matrix is singular.
 
                                  OLS Regression Results                                
@@ -1251,8 +1251,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.895
 Model:                            OLS   Adj. R-squared (uncentered):              0.895
 Method:                 Least Squares   F-statistic:                              6300.
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        16:33:57   Log-Likelihood:                         -25645.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        22:04:46   Log-Likelihood:                         -25645.
 No. Observations:                3713   AIC:                                  5.130e+04
 Df Residuals:                    3708   BIC:                                  5.133e+04
 Df Model:                           5                                                  
@@ -1267,16 +1267,16 @@ sub_category_Тренажеры     -16.2981     10.377     -1.571      0.116   
 region_y_Северо-Западный    28.3162      9.576      2.957      0.003       9.542      47.090
 departure_season_Зима      -17.6943      8.799     -2.011      0.044     -34.946      -0.443
 ==============================================================================
-Omnibus:                        8.484   Durbin-Watson:                   1.219
+Omnibus:                        8.484   Durbin-Watson:                   1.988
 Prob(Omnibus):                  0.014   Jarque-Bera (JB):               10.246
 Skew:                           0.003   Prob(JB):                      0.00596
-Kurtosis:                       3.257   Cond. No.                     9.47e+18
+Kurtosis:                       3.257   Cond. No.                     3.99e+18
 ==============================================================================
 
 Notes:
 [1] R² is computed without centering (uncentered) since the model does not contain a constant.
 [2] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[3] The smallest eigenvalue is 1.33e-29. This might indicate that there are
+[3] The smallest eigenvalue is 7.49e-29. This might indicate that there are
 strong multicollinearity problems or that the design matrix is singular.
 
                                  OLS Regression Results                                
@@ -1284,8 +1284,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.895
 Model:                            OLS   Adj. R-squared (uncentered):              0.895
 Method:                 Least Squares   F-statistic:                              6300.
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        16:33:57   Log-Likelihood:                         -25645.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        22:04:46   Log-Likelihood:                         -25645.
 No. Observations:                3713   AIC:                                  5.130e+04
 Df Residuals:                    3708   BIC:                                  5.133e+04
 Df Model:                           5                                                  
@@ -1295,11 +1295,11 @@ Covariance Type:            nonrobust
 --------------------------------------------------------------------------------------------
 distance                     1.2312      0.009    134.659      0.000       1.213       1.249
 category_Одежда             19.3317      7.903      2.446      0.014       3.838      34.825
-category_Спорттовары       -32.5961     20.754     -1.571      0.116     -73.287       8.095
+sub_category_Тренажеры     -32.5961     20.754     -1.571      0.116     -73.287       8.095
 region_y_Северо-Западный    28.3162      9.576      2.957      0.003       9.542      47.090
 departure_season_Зима      -17.6943      8.799     -2.011      0.044     -34.946      -0.443
 ==============================================================================
-Omnibus:                        8.484   Durbin-Watson:                   1.219
+Omnibus:                        8.484   Durbin-Watson:                   1.988
 Prob(Omnibus):                  0.014   Jarque-Bera (JB):               10.246
 Skew:                           0.003   Prob(JB):                      0.00596
 Kurtosis:                       3.257   Cond. No.                     2.97e+03
@@ -1316,8 +1316,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.895
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              7871.
-Date:                Thu, 13 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        16:33:57   Log-Likelihood:                         -25646.
+Date:                Tue, 18 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        22:04:46   Log-Likelihood:                         -25646.
 No. Observations:                3713   AIC:                                  5.130e+04
 Df Residuals:                    3709   BIC:                                  5.133e+04
 Df Model:                           4                                                  
@@ -1330,7 +1330,7 @@ category_Одежда             20.7373      7.853      2.641      0.008      
 region_y_Северо-Западный    28.1229      9.577      2.937      0.003       9.347      46.899
 departure_season_Зима      -18.3498      8.791     -2.087      0.037     -35.585      -1.114
 ==============================================================================
-Omnibus:                        8.524   Durbin-Watson:                   1.214
+Omnibus:                        8.524   Durbin-Watson:                   1.988
 Prob(Omnibus):                  0.014   Jarque-Bera (JB):               10.280
 Skew:                           0.010   Prob(JB):                      0.00586
 Kurtosis:                       3.257   Cond. No.                     1.38e+03

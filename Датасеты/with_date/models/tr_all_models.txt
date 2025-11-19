@@ -4,7 +4,7 @@ Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.676
 Method:                 Least Squares   F-statistic:                     235.4
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:51:38   Log-Likelihood:                -25641.
+Time:                        01:55:25   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.135e+04
 Df Residuals:                    3679   BIC:                         5.156e+04
 Df Model:                          33                                         
@@ -67,7 +67,7 @@ Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.676
 Method:                 Least Squares   F-statistic:                     235.4
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:51:38   Log-Likelihood:                -25641.
+Time:                        01:55:25   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.135e+04
 Df Residuals:                    3679   BIC:                         5.156e+04
 Df Model:                          33                                         
@@ -130,7 +130,7 @@ Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.676
 Method:                 Least Squares   F-statistic:                     242.8
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:51:38   Log-Likelihood:                -25641.
+Time:                        01:55:25   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.135e+04
 Df Residuals:                    3680   BIC:                         5.155e+04
 Df Model:                          32                                         
@@ -192,7 +192,7 @@ Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.676
 Method:                 Least Squares   F-statistic:                     250.7
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:51:38   Log-Likelihood:                -25641.
+Time:                        01:55:25   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.135e+04
 Df Residuals:                    3681   BIC:                         5.154e+04
 Df Model:                          31                                         
@@ -253,7 +253,7 @@ Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.676
 Method:                 Least Squares   F-statistic:                     259.2
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:51:38   Log-Likelihood:                -25641.
+Time:                        01:55:25   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.134e+04
 Df Residuals:                    3682   BIC:                         5.154e+04
 Df Model:                          30                                         
@@ -313,7 +313,7 @@ Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.676
 Method:                 Least Squares   F-statistic:                     268.2
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:51:38   Log-Likelihood:                -25641.
+Time:                        01:55:25   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.134e+04
 Df Residuals:                    3683   BIC:                         5.153e+04
 Df Model:                          29                                         
@@ -372,7 +372,7 @@ Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.676
 Method:                 Least Squares   F-statistic:                     277.8
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:51:38   Log-Likelihood:                -25641.
+Time:                        01:55:25   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.134e+04
 Df Residuals:                    3684   BIC:                         5.152e+04
 Df Model:                          28                                         
@@ -430,7 +430,7 @@ Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.676
 Method:                 Least Squares   F-statistic:                     288.2
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:51:38   Log-Likelihood:                -25641.
+Time:                        01:55:25   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.134e+04
 Df Residuals:                    3685   BIC:                         5.151e+04
 Df Model:                          27                                         
@@ -487,7 +487,7 @@ Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.676
 Method:                 Least Squares   F-statistic:                     299.3
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:51:38   Log-Likelihood:                -25641.
+Time:                        01:55:25   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.134e+04
 Df Residuals:                    3686   BIC:                         5.150e+04
 Df Model:                          26                                         
@@ -543,7 +543,7 @@ Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.676
 Method:                 Least Squares   F-statistic:                     311.4
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:51:38   Log-Likelihood:                -25641.
+Time:                        01:55:25   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.133e+04
 Df Residuals:                    3687   BIC:                         5.150e+04
 Df Model:                          25                                         
@@ -598,7 +598,7 @@ Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.676
 Method:                 Least Squares   F-statistic:                     324.4
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:51:38   Log-Likelihood:                -25641.
+Time:                        01:55:25   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.133e+04
 Df Residuals:                    3688   BIC:                         5.149e+04
 Df Model:                          24                                         
@@ -652,7 +652,7 @@ Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.677
 Method:                 Least Squares   F-statistic:                     338.6
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:51:38   Log-Likelihood:                -25641.
+Time:                        01:55:25   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.133e+04
 Df Residuals:                    3689   BIC:                         5.148e+04
 Df Model:                          23                                         
@@ -705,7 +705,7 @@ Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.677
 Method:                 Least Squares   F-statistic:                     338.6
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:51:38   Log-Likelihood:                -25641.
+Time:                        01:55:25   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.133e+04
 Df Residuals:                    3689   BIC:                         5.148e+04
 Df Model:                          23                                         
@@ -757,7 +757,7 @@ Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.677
 Method:                 Least Squares   F-statistic:                     354.1
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:51:38   Log-Likelihood:                -25641.
+Time:                        01:55:25   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.133e+04
 Df Residuals:                    3690   BIC:                         5.147e+04
 Df Model:                          22                                         
@@ -808,7 +808,7 @@ Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.677
 Method:                 Least Squares   F-statistic:                     371.0
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:51:38   Log-Likelihood:                -25641.
+Time:                        01:55:25   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.133e+04
 Df Residuals:                    3691   BIC:                         5.146e+04
 Df Model:                          21                                         
@@ -858,7 +858,7 @@ Dep. Variable:                   cost   R-squared:                       0.679
 Model:                            OLS   Adj. R-squared:                  0.677
 Method:                 Least Squares   F-statistic:                     389.6
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:51:38   Log-Likelihood:                -25641.
+Time:                        01:55:26   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.132e+04
 Df Residuals:                    3692   BIC:                         5.146e+04
 Df Model:                          20                                         
@@ -907,7 +907,7 @@ Dep. Variable:                   cost   R-squared:                       0.678
 Model:                            OLS   Adj. R-squared:                  0.677
 Method:                 Least Squares   F-statistic:                     410.2
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:51:38   Log-Likelihood:                -25641.
+Time:                        01:55:26   Log-Likelihood:                -25641.
 No. Observations:                3713   AIC:                         5.132e+04
 Df Residuals:                    3693   BIC:                         5.145e+04
 Df Model:                          19                                         
@@ -955,7 +955,7 @@ Dep. Variable:                   cost   R-squared (uncentered):                 
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              1655.
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:51:38   Log-Likelihood:                         -25642.
+Time:                        01:55:26   Log-Likelihood:                         -25642.
 No. Observations:                3713   AIC:                                  5.132e+04
 Df Residuals:                    3694   BIC:                                  5.144e+04
 Df Model:                          19                                                  
@@ -1003,7 +1003,7 @@ Dep. Variable:                   cost   R-squared (uncentered):                 
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              1747.
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:51:38   Log-Likelihood:                         -25642.
+Time:                        01:55:26   Log-Likelihood:                         -25642.
 No. Observations:                3713   AIC:                                  5.132e+04
 Df Residuals:                    3695   BIC:                                  5.143e+04
 Df Model:                          18                                                  
@@ -1050,7 +1050,7 @@ Dep. Variable:                   cost   R-squared (uncentered):                 
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              1851.
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:51:38   Log-Likelihood:                         -25642.
+Time:                        01:55:26   Log-Likelihood:                         -25642.
 No. Observations:                3713   AIC:                                  5.132e+04
 Df Residuals:                    3696   BIC:                                  5.142e+04
 Df Model:                          17                                                  
@@ -1096,7 +1096,7 @@ Dep. Variable:                   cost   R-squared (uncentered):                 
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              1967.
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:51:38   Log-Likelihood:                         -25642.
+Time:                        01:55:26   Log-Likelihood:                         -25642.
 No. Observations:                3713   AIC:                                  5.132e+04
 Df Residuals:                    3697   BIC:                                  5.142e+04
 Df Model:                          16                                                  
@@ -1141,7 +1141,7 @@ Dep. Variable:                   cost   R-squared (uncentered):                 
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              2098.
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:51:38   Log-Likelihood:                         -25642.
+Time:                        01:55:26   Log-Likelihood:                         -25642.
 No. Observations:                3713   AIC:                                  5.131e+04
 Df Residuals:                    3698   BIC:                                  5.141e+04
 Df Model:                          15                                                  
@@ -1185,7 +1185,7 @@ Dep. Variable:                   cost   R-squared (uncentered):                 
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              2248.
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:51:38   Log-Likelihood:                         -25642.
+Time:                        01:55:26   Log-Likelihood:                         -25642.
 No. Observations:                3713   AIC:                                  5.131e+04
 Df Residuals:                    3699   BIC:                                  5.140e+04
 Df Model:                          14                                                  
@@ -1228,7 +1228,7 @@ Dep. Variable:                   cost   R-squared (uncentered):                 
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              2422.
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:51:38   Log-Likelihood:                         -25642.
+Time:                        01:55:26   Log-Likelihood:                         -25642.
 No. Observations:                3713   AIC:                                  5.131e+04
 Df Residuals:                    3700   BIC:                                  5.139e+04
 Df Model:                          13                                                  
@@ -1270,7 +1270,7 @@ Dep. Variable:                   cost   R-squared (uncentered):                 
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              2624.
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:51:38   Log-Likelihood:                         -25642.
+Time:                        01:55:26   Log-Likelihood:                         -25642.
 No. Observations:                3713   AIC:                                  5.131e+04
 Df Residuals:                    3701   BIC:                                  5.138e+04
 Df Model:                          12                                                  
@@ -1311,7 +1311,7 @@ Dep. Variable:                   cost   R-squared (uncentered):                 
 Model:                            OLS   Adj. R-squared (uncentered):              0.895
 Method:                 Least Squares   F-statistic:                              2863.
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:51:38   Log-Likelihood:                         -25642.
+Time:                        01:55:26   Log-Likelihood:                         -25642.
 No. Observations:                3713   AIC:                                  5.131e+04
 Df Residuals:                    3702   BIC:                                  5.138e+04
 Df Model:                          11                                                  
@@ -1351,7 +1351,7 @@ Dep. Variable:                   cost   R-squared (uncentered):                 
 Model:                            OLS   Adj. R-squared (uncentered):              0.895
 Method:                 Least Squares   F-statistic:                              3150.
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:51:38   Log-Likelihood:                         -25643.
+Time:                        01:55:26   Log-Likelihood:                         -25643.
 No. Observations:                3713   AIC:                                  5.131e+04
 Df Residuals:                    3703   BIC:                                  5.137e+04
 Df Model:                          10                                                  
@@ -1390,7 +1390,7 @@ Dep. Variable:                   cost   R-squared (uncentered):                 
 Model:                            OLS   Adj. R-squared (uncentered):              0.895
 Method:                 Least Squares   F-statistic:                              3501.
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:51:38   Log-Likelihood:                         -25643.
+Time:                        01:55:26   Log-Likelihood:                         -25643.
 No. Observations:                3713   AIC:                                  5.130e+04
 Df Residuals:                    3704   BIC:                                  5.136e+04
 Df Model:                           9                                                  
@@ -1428,7 +1428,7 @@ Dep. Variable:                   cost   R-squared (uncentered):                 
 Model:                            OLS   Adj. R-squared (uncentered):              0.895
 Method:                 Least Squares   F-statistic:                              3938.
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:51:38   Log-Likelihood:                         -25643.
+Time:                        01:55:26   Log-Likelihood:                         -25643.
 No. Observations:                3713   AIC:                                  5.130e+04
 Df Residuals:                    3705   BIC:                                  5.135e+04
 Df Model:                           8                                                  
@@ -1465,7 +1465,7 @@ Dep. Variable:                   cost   R-squared (uncentered):                 
 Model:                            OLS   Adj. R-squared (uncentered):              0.895
 Method:                 Least Squares   F-statistic:                              4500.
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:51:38   Log-Likelihood:                         -25644.
+Time:                        01:55:26   Log-Likelihood:                         -25644.
 No. Observations:                3713   AIC:                                  5.130e+04
 Df Residuals:                    3706   BIC:                                  5.135e+04
 Df Model:                           7                                                  
@@ -1501,7 +1501,7 @@ Dep. Variable:                   cost   R-squared (uncentered):                 
 Model:                            OLS   Adj. R-squared (uncentered):              0.895
 Method:                 Least Squares   F-statistic:                              5249.
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:51:38   Log-Likelihood:                         -25645.
+Time:                        01:55:26   Log-Likelihood:                         -25645.
 No. Observations:                3713   AIC:                                  5.130e+04
 Df Residuals:                    3707   BIC:                                  5.134e+04
 Df Model:                           6                                                  
@@ -1536,7 +1536,7 @@ Dep. Variable:                   cost   R-squared (uncentered):                 
 Model:                            OLS   Adj. R-squared (uncentered):              0.895
 Method:                 Least Squares   F-statistic:                              5249.
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:51:38   Log-Likelihood:                         -25645.
+Time:                        01:55:26   Log-Likelihood:                         -25645.
 No. Observations:                3713   AIC:                                  5.130e+04
 Df Residuals:                    3707   BIC:                                  5.134e+04
 Df Model:                           6                                                  
@@ -1570,7 +1570,7 @@ Dep. Variable:                   cost   R-squared (uncentered):                 
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              6295.
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:51:38   Log-Likelihood:                         -25646.
+Time:                        01:55:26   Log-Likelihood:                         -25646.
 No. Observations:                3713   AIC:                                  5.130e+04
 Df Residuals:                    3708   BIC:                                  5.133e+04
 Df Model:                           5                                                  
@@ -1603,7 +1603,7 @@ Dep. Variable:                   cost   R-squared (uncentered):                 
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              7863.
 Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:51:38   Log-Likelihood:                         -25648.
+Time:                        01:55:26   Log-Likelihood:                         -25648.
 No. Observations:                3713   AIC:                                  5.130e+04
 Df Residuals:                    3709   BIC:                                  5.133e+04
 Df Model:                           4                                                  

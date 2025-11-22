@@ -3,8 +3,8 @@
 Dep. Variable:                   cost   R-squared:                       0.676
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     233.0
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:50:30   Log-Likelihood:                -25826.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):               0.00
+Time:                        12:20:02   Log-Likelihood:                -25826.
 No. Observations:                3725   AIC:                         5.172e+04
 Df Residuals:                    3691   BIC:                         5.193e+04
 Df Model:                          33                                         
@@ -66,8 +66,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.676
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     233.0
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:50:30   Log-Likelihood:                -25826.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):               0.00
+Time:                        12:20:02   Log-Likelihood:                -25826.
 No. Observations:                3725   AIC:                         5.172e+04
 Df Residuals:                    3691   BIC:                         5.193e+04
 Df Model:                          33                                         
@@ -129,8 +129,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.676
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     233.0
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:50:30   Log-Likelihood:                -25826.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):               0.00
+Time:                        12:20:02   Log-Likelihood:                -25826.
 No. Observations:                3725   AIC:                         5.172e+04
 Df Residuals:                    3691   BIC:                         5.193e+04
 Df Model:                          33                                         
@@ -191,8 +191,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.676
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     240.3
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:50:30   Log-Likelihood:                -25826.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):               0.00
+Time:                        12:20:02   Log-Likelihood:                -25826.
 No. Observations:                3725   AIC:                         5.172e+04
 Df Residuals:                    3692   BIC:                         5.192e+04
 Df Model:                          32                                         
@@ -252,8 +252,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.676
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     240.3
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:50:30   Log-Likelihood:                -25826.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):               0.00
+Time:                        12:20:02   Log-Likelihood:                -25826.
 No. Observations:                3725   AIC:                         5.172e+04
 Df Residuals:                    3692   BIC:                         5.192e+04
 Df Model:                          32                                         
@@ -312,8 +312,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.676
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     248.1
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:50:30   Log-Likelihood:                -25826.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):               0.00
+Time:                        12:20:02   Log-Likelihood:                -25826.
 No. Observations:                3725   AIC:                         5.172e+04
 Df Residuals:                    3693   BIC:                         5.191e+04
 Df Model:                          31                                         
@@ -371,8 +371,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.676
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     256.5
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:50:30   Log-Likelihood:                -25826.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):               0.00
+Time:                        12:20:02   Log-Likelihood:                -25826.
 No. Observations:                3725   AIC:                         5.171e+04
 Df Residuals:                    3694   BIC:                         5.191e+04
 Df Model:                          30                                         
@@ -429,8 +429,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.676
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     265.4
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:50:30   Log-Likelihood:                -25826.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):               0.00
+Time:                        12:20:02   Log-Likelihood:                -25826.
 No. Observations:                3725   AIC:                         5.171e+04
 Df Residuals:                    3695   BIC:                         5.190e+04
 Df Model:                          29                                         
@@ -486,8 +486,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.676
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     274.9
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:50:30   Log-Likelihood:                -25826.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):               0.00
+Time:                        12:20:02   Log-Likelihood:                -25826.
 No. Observations:                3725   AIC:                         5.171e+04
 Df Residuals:                    3696   BIC:                         5.189e+04
 Df Model:                          28                                         
@@ -542,8 +542,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.676
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     285.2
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:50:30   Log-Likelihood:                -25826.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):               0.00
+Time:                        12:20:02   Log-Likelihood:                -25826.
 No. Observations:                3725   AIC:                         5.171e+04
 Df Residuals:                    3697   BIC:                         5.188e+04
 Df Model:                          27                                         
@@ -597,8 +597,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.676
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     296.2
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:50:30   Log-Likelihood:                -25826.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):               0.00
+Time:                        12:20:02   Log-Likelihood:                -25826.
 No. Observations:                3725   AIC:                         5.171e+04
 Df Residuals:                    3698   BIC:                         5.187e+04
 Df Model:                          26                                         
@@ -651,8 +651,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.676
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     308.2
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:50:30   Log-Likelihood:                -25826.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):               0.00
+Time:                        12:20:02   Log-Likelihood:                -25826.
 No. Observations:                3725   AIC:                         5.170e+04
 Df Residuals:                    3699   BIC:                         5.187e+04
 Df Model:                          25                                         
@@ -704,8 +704,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.676
 Model:                            OLS   Adj. R-squared:                  0.673
 Method:                 Least Squares   F-statistic:                     321.1
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:50:30   Log-Likelihood:                -25826.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):               0.00
+Time:                        12:20:02   Log-Likelihood:                -25826.
 No. Observations:                3725   AIC:                         5.170e+04
 Df Residuals:                    3700   BIC:                         5.186e+04
 Df Model:                          24                                         
@@ -756,8 +756,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.676
 Model:                            OLS   Adj. R-squared:                  0.674
 Method:                 Least Squares   F-statistic:                     335.1
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:50:30   Log-Likelihood:                -25826.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):               0.00
+Time:                        12:20:02   Log-Likelihood:                -25826.
 No. Observations:                3725   AIC:                         5.170e+04
 Df Residuals:                    3701   BIC:                         5.185e+04
 Df Model:                          23                                         
@@ -807,8 +807,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.676
 Model:                            OLS   Adj. R-squared:                  0.674
 Method:                 Least Squares   F-statistic:                     350.4
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:50:30   Log-Likelihood:                -25826.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):               0.00
+Time:                        12:20:02   Log-Likelihood:                -25826.
 No. Observations:                3725   AIC:                         5.170e+04
 Df Residuals:                    3702   BIC:                         5.184e+04
 Df Model:                          22                                         
@@ -857,8 +857,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.676
 Model:                            OLS   Adj. R-squared:                  0.674
 Method:                 Least Squares   F-statistic:                     367.1
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:50:30   Log-Likelihood:                -25826.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):               0.00
+Time:                        12:20:02   Log-Likelihood:                -25826.
 No. Observations:                3725   AIC:                         5.170e+04
 Df Residuals:                    3703   BIC:                         5.183e+04
 Df Model:                          21                                         
@@ -906,8 +906,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.674
 Method:                 Least Squares   F-statistic:                     385.5
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:50:30   Log-Likelihood:                -25827.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):               0.00
+Time:                        12:20:02   Log-Likelihood:                -25827.
 No. Observations:                3725   AIC:                         5.170e+04
 Df Residuals:                    3704   BIC:                         5.183e+04
 Df Model:                          20                                         
@@ -954,8 +954,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.674
 Method:                 Least Squares   F-statistic:                     405.7
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        01:50:30   Log-Likelihood:                -25827.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):               0.00
+Time:                        12:20:02   Log-Likelihood:                -25827.
 No. Observations:                3725   AIC:                         5.169e+04
 Df Residuals:                    3705   BIC:                         5.182e+04
 Df Model:                          19                                         
@@ -1001,8 +1001,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                              1645.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:50:30   Log-Likelihood:                         -25828.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        12:20:02   Log-Likelihood:                         -25828.
 No. Observations:                3725   AIC:                                  5.169e+04
 Df Residuals:                    3706   BIC:                                  5.181e+04
 Df Model:                          19                                                  
@@ -1048,8 +1048,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                              1736.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:50:30   Log-Likelihood:                         -25828.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        12:20:02   Log-Likelihood:                         -25828.
 No. Observations:                3725   AIC:                                  5.169e+04
 Df Residuals:                    3707   BIC:                                  5.180e+04
 Df Model:                          18                                                  
@@ -1094,8 +1094,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                              1838.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:50:30   Log-Likelihood:                         -25828.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        12:20:02   Log-Likelihood:                         -25828.
 No. Observations:                3725   AIC:                                  5.169e+04
 Df Residuals:                    3708   BIC:                                  5.180e+04
 Df Model:                          17                                                  
@@ -1139,8 +1139,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                              1953.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:50:30   Log-Likelihood:                         -25829.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        12:20:02   Log-Likelihood:                         -25829.
 No. Observations:                3725   AIC:                                  5.169e+04
 Df Residuals:                    3709   BIC:                                  5.179e+04
 Df Model:                          16                                                  
@@ -1183,8 +1183,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                              2083.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:50:30   Log-Likelihood:                         -25829.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        12:20:02   Log-Likelihood:                         -25829.
 No. Observations:                3725   AIC:                                  5.169e+04
 Df Residuals:                    3710   BIC:                                  5.178e+04
 Df Model:                          15                                                  
@@ -1226,8 +1226,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                              2232.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:50:30   Log-Likelihood:                         -25830.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        12:20:02   Log-Likelihood:                         -25830.
 No. Observations:                3725   AIC:                                  5.169e+04
 Df Residuals:                    3711   BIC:                                  5.178e+04
 Df Model:                          14                                                  
@@ -1268,8 +1268,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                              2403.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:50:30   Log-Likelihood:                         -25831.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        12:20:02   Log-Likelihood:                         -25831.
 No. Observations:                3725   AIC:                                  5.169e+04
 Df Residuals:                    3712   BIC:                                  5.177e+04
 Df Model:                          13                                                  
@@ -1309,8 +1309,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                              2604.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:50:30   Log-Likelihood:                         -25831.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        12:20:02   Log-Likelihood:                         -25831.
 No. Observations:                3725   AIC:                                  5.169e+04
 Df Residuals:                    3713   BIC:                                  5.176e+04
 Df Model:                          12                                                  
@@ -1349,8 +1349,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                              2840.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:50:30   Log-Likelihood:                         -25832.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        12:20:02   Log-Likelihood:                         -25832.
 No. Observations:                3725   AIC:                                  5.169e+04
 Df Residuals:                    3714   BIC:                                  5.175e+04
 Df Model:                          11                                                  
@@ -1388,8 +1388,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                              3124.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:50:30   Log-Likelihood:                         -25832.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        12:20:03   Log-Likelihood:                         -25832.
 No. Observations:                3725   AIC:                                  5.168e+04
 Df Residuals:                    3715   BIC:                                  5.175e+04
 Df Model:                          10                                                  
@@ -1426,8 +1426,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                              3470.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:50:30   Log-Likelihood:                         -25833.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        12:20:03   Log-Likelihood:                         -25833.
 No. Observations:                3725   AIC:                                  5.168e+04
 Df Residuals:                    3716   BIC:                                  5.174e+04
 Df Model:                           9                                                  
@@ -1463,8 +1463,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                              3903.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:50:30   Log-Likelihood:                         -25834.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        12:20:03   Log-Likelihood:                         -25834.
 No. Observations:                3725   AIC:                                  5.168e+04
 Df Residuals:                    3717   BIC:                                  5.173e+04
 Df Model:                           8                                                  
@@ -1499,8 +1499,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                              4460.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:50:30   Log-Likelihood:                         -25835.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        12:20:03   Log-Likelihood:                         -25835.
 No. Observations:                3725   AIC:                                  5.168e+04
 Df Residuals:                    3718   BIC:                                  5.173e+04
 Df Model:                           7                                                  
@@ -1534,8 +1534,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                              5204.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:50:30   Log-Likelihood:                         -25835.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        12:20:03   Log-Likelihood:                         -25835.
 No. Observations:                3725   AIC:                                  5.168e+04
 Df Residuals:                    3719   BIC:                                  5.172e+04
 Df Model:                           6                                                  
@@ -1568,8 +1568,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                              6243.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:50:30   Log-Likelihood:                         -25836.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        12:20:03   Log-Likelihood:                         -25836.
 No. Observations:                3725   AIC:                                  5.168e+04
 Df Residuals:                    3720   BIC:                                  5.171e+04
 Df Model:                           5                                                  
@@ -1601,8 +1601,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.893
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                              7801.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:50:30   Log-Likelihood:                         -25837.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        12:20:03   Log-Likelihood:                         -25837.
 No. Observations:                3725   AIC:                                  5.168e+04
 Df Residuals:                    3721   BIC:                                  5.171e+04
 Df Model:                           4                                                  
@@ -1633,8 +1633,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.893
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                          1.040e+04
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:50:30   Log-Likelihood:                         -25838.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        12:20:03   Log-Likelihood:                         -25838.
 No. Observations:                3725   AIC:                                  5.168e+04
 Df Residuals:                    3722   BIC:                                  5.170e+04
 Df Model:                           3                                                  
@@ -1664,8 +1664,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.893
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                          1.558e+04
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:50:30   Log-Likelihood:                         -25840.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        12:20:03   Log-Likelihood:                         -25840.
 No. Observations:                3725   AIC:                                  5.168e+04
 Df Residuals:                    3723   BIC:                                  5.170e+04
 Df Model:                           2                                                  
@@ -1694,8 +1694,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.893
 Model:                            OLS   Adj. R-squared (uncentered):              0.893
 Method:                 Least Squares   F-statistic:                          3.114e+04
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        01:50:30   Log-Likelihood:                         -25842.
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        12:20:03   Log-Likelihood:                         -25842.
 No. Observations:                3725   AIC:                                  5.169e+04
 Df Residuals:                    3724   BIC:                                  5.169e+04
 Df Model:                           1                                                  

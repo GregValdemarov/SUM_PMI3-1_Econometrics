@@ -3,8 +3,8 @@
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.674
 Method:                 Least Squares   F-statistic:                     860.0
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        11:21:54   Log-Likelihood:            -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):               0.00
+Time:                        15:02:10   Log-Likelihood:            -1.0372e+05
 No. Observations:               14976   AIC:                         2.075e+05
 Df Residuals:                   14939   BIC:                         2.078e+05
 Df Model:                          36                                         
@@ -69,8 +69,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.674
 Method:                 Least Squares   F-statistic:                     884.6
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        11:21:54   Log-Likelihood:            -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):               0.00
+Time:                        15:02:10   Log-Likelihood:            -1.0372e+05
 No. Observations:               14976   AIC:                         2.075e+05
 Df Residuals:                   14940   BIC:                         2.078e+05
 Df Model:                          35                                         
@@ -135,8 +135,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.674
 Method:                 Least Squares   F-statistic:                     884.6
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        11:21:54   Log-Likelihood:            -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):               0.00
+Time:                        15:02:11   Log-Likelihood:            -1.0372e+05
 No. Observations:               14976   AIC:                         2.075e+05
 Df Residuals:                   14940   BIC:                         2.078e+05
 Df Model:                          35                                         
@@ -200,8 +200,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.674
 Method:                 Least Squares   F-statistic:                     910.7
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        11:21:54   Log-Likelihood:            -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):               0.00
+Time:                        15:02:11   Log-Likelihood:            -1.0372e+05
 No. Observations:               14976   AIC:                         2.075e+05
 Df Residuals:                   14941   BIC:                         2.078e+05
 Df Model:                          34                                         
@@ -264,8 +264,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.674
 Method:                 Least Squares   F-statistic:                     938.3
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        11:21:54   Log-Likelihood:            -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):               0.00
+Time:                        15:02:11   Log-Likelihood:            -1.0372e+05
 No. Observations:               14976   AIC:                         2.075e+05
 Df Residuals:                   14942   BIC:                         2.078e+05
 Df Model:                          33                                         
@@ -327,8 +327,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.674
 Method:                 Least Squares   F-statistic:                     967.7
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        11:21:54   Log-Likelihood:            -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):               0.00
+Time:                        15:02:11   Log-Likelihood:            -1.0372e+05
 No. Observations:               14976   AIC:                         2.075e+05
 Df Residuals:                   14943   BIC:                         2.078e+05
 Df Model:                          32                                         
@@ -389,8 +389,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.674
 Method:                 Least Squares   F-statistic:                     999.0
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        11:21:54   Log-Likelihood:            -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):               0.00
+Time:                        15:02:11   Log-Likelihood:            -1.0372e+05
 No. Observations:               14976   AIC:                         2.075e+05
 Df Residuals:                   14944   BIC:                         2.078e+05
 Df Model:                          31                                         
@@ -450,8 +450,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared:                       0.675
 Model:                            OLS   Adj. R-squared:                  0.674
 Method:                 Least Squares   F-statistic:                     1032.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):               0.00
-Time:                        11:21:54   Log-Likelihood:            -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):               0.00
+Time:                        15:02:11   Log-Likelihood:            -1.0372e+05
 No. Observations:               14976   AIC:                         2.075e+05
 Df Residuals:                   14945   BIC:                         2.077e+05
 Df Model:                          30                                         
@@ -510,8 +510,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              4196.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:54   Log-Likelihood:                     -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:11   Log-Likelihood:                     -1.0372e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14946   BIC:                                  2.077e+05
 Df Model:                          30                                                  
@@ -570,8 +570,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              4341.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:54   Log-Likelihood:                     -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:11   Log-Likelihood:                     -1.0372e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14947   BIC:                                  2.077e+05
 Df Model:                          29                                                  
@@ -629,8 +629,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              4496.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:54   Log-Likelihood:                     -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:11   Log-Likelihood:                     -1.0372e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14948   BIC:                                  2.077e+05
 Df Model:                          28                                                  
@@ -687,8 +687,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              4663.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:54   Log-Likelihood:                     -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:11   Log-Likelihood:                     -1.0372e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14949   BIC:                                  2.077e+05
 Df Model:                          27                                                  
@@ -744,8 +744,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              4842.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:54   Log-Likelihood:                     -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:11   Log-Likelihood:                     -1.0372e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14950   BIC:                                  2.077e+05
 Df Model:                          26                                                  
@@ -800,8 +800,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              5036.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:54   Log-Likelihood:                     -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:11   Log-Likelihood:                     -1.0372e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14951   BIC:                                  2.077e+05
 Df Model:                          25                                                  
@@ -855,8 +855,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              5036.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:54   Log-Likelihood:                     -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:11   Log-Likelihood:                     -1.0372e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14951   BIC:                                  2.077e+05
 Df Model:                          25                                                  
@@ -909,8 +909,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              5246.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:54   Log-Likelihood:                     -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:11   Log-Likelihood:                     -1.0372e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14952   BIC:                                  2.077e+05
 Df Model:                          24                                                  
@@ -962,8 +962,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              5475.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:54   Log-Likelihood:                     -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:11   Log-Likelihood:                     -1.0372e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14953   BIC:                                  2.077e+05
 Df Model:                          23                                                  
@@ -1014,8 +1014,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              5724.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:54   Log-Likelihood:                     -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:11   Log-Likelihood:                     -1.0372e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14954   BIC:                                  2.077e+05
 Df Model:                          22                                                  
@@ -1065,8 +1065,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              5997.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:54   Log-Likelihood:                     -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:11   Log-Likelihood:                     -1.0372e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14955   BIC:                                  2.076e+05
 Df Model:                          21                                                  
@@ -1115,8 +1115,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              6297.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:54   Log-Likelihood:                     -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:11   Log-Likelihood:                     -1.0372e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14956   BIC:                                  2.076e+05
 Df Model:                          20                                                  
@@ -1164,8 +1164,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              6629.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:54   Log-Likelihood:                     -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:11   Log-Likelihood:                     -1.0372e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14957   BIC:                                  2.076e+05
 Df Model:                          19                                                  
@@ -1212,8 +1212,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              6997.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:54   Log-Likelihood:                     -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:11   Log-Likelihood:                     -1.0372e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14958   BIC:                                  2.076e+05
 Df Model:                          18                                                  
@@ -1259,8 +1259,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              7409.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:54   Log-Likelihood:                     -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:11   Log-Likelihood:                     -1.0372e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14959   BIC:                                  2.076e+05
 Df Model:                          17                                                  
@@ -1305,8 +1305,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              7873.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:55   Log-Likelihood:                     -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:11   Log-Likelihood:                     -1.0372e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14960   BIC:                                  2.076e+05
 Df Model:                          16                                                  
@@ -1350,8 +1350,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              8398.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:55   Log-Likelihood:                     -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:12   Log-Likelihood:                     -1.0372e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14961   BIC:                                  2.076e+05
 Df Model:                          15                                                  
@@ -1394,8 +1394,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              8998.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:55   Log-Likelihood:                     -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:12   Log-Likelihood:                     -1.0372e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14962   BIC:                                  2.076e+05
 Df Model:                          14                                                  
@@ -1437,8 +1437,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                              9690.
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:55   Log-Likelihood:                     -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:12   Log-Likelihood:                     -1.0372e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14963   BIC:                                  2.076e+05
 Df Model:                          13                                                  
@@ -1479,8 +1479,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                          1.050e+04
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:55   Log-Likelihood:                     -1.0372e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:12   Log-Likelihood:                     -1.0372e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14964   BIC:                                  2.076e+05
 Df Model:                          12                                                  
@@ -1520,8 +1520,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                          1.145e+04
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:55   Log-Likelihood:                     -1.0373e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:12   Log-Likelihood:                     -1.0373e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14965   BIC:                                  2.076e+05
 Df Model:                          11                                                  
@@ -1560,8 +1560,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                          1.260e+04
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:55   Log-Likelihood:                     -1.0373e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:12   Log-Likelihood:                     -1.0373e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14966   BIC:                                  2.075e+05
 Df Model:                          10                                                  
@@ -1599,8 +1599,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                          1.400e+04
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:55   Log-Likelihood:                     -1.0373e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:12   Log-Likelihood:                     -1.0373e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14967   BIC:                                  2.075e+05
 Df Model:                           9                                                  
@@ -1637,8 +1637,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                          1.575e+04
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:55   Log-Likelihood:                     -1.0373e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:12   Log-Likelihood:                     -1.0373e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14968   BIC:                                  2.075e+05
 Df Model:                           8                                                  
@@ -1674,8 +1674,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                          1.800e+04
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:55   Log-Likelihood:                     -1.0373e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:12   Log-Likelihood:                     -1.0373e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14969   BIC:                                  2.075e+05
 Df Model:                           7                                                  
@@ -1710,8 +1710,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                          2.099e+04
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:55   Log-Likelihood:                     -1.0373e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:12   Log-Likelihood:                     -1.0373e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14970   BIC:                                  2.075e+05
 Df Model:                           6                                                  
@@ -1745,8 +1745,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                          2.519e+04
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:55   Log-Likelihood:                     -1.0373e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:12   Log-Likelihood:                     -1.0373e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14971   BIC:                                  2.075e+05
 Df Model:                           5                                                  
@@ -1779,8 +1779,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                          3.149e+04
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:55   Log-Likelihood:                     -1.0373e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:12   Log-Likelihood:                     -1.0373e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14972   BIC:                                  2.075e+05
 Df Model:                           4                                                  
@@ -1812,8 +1812,8 @@ strong multicollinearity problems or that the design matrix is singular.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                          3.149e+04
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:55   Log-Likelihood:                     -1.0373e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:12   Log-Likelihood:                     -1.0373e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14972   BIC:                                  2.075e+05
 Df Model:                           4                                                  
@@ -1844,8 +1844,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                          4.198e+04
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:55   Log-Likelihood:                     -1.0373e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:12   Log-Likelihood:                     -1.0373e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14973   BIC:                                  2.075e+05
 Df Model:                           3                                                  
@@ -1875,8 +1875,8 @@ strong multicollinearity or other numerical problems.
 Dep. Variable:                   cost   R-squared (uncentered):                   0.894
 Model:                            OLS   Adj. R-squared (uncentered):              0.894
 Method:                 Least Squares   F-statistic:                          6.296e+04
-Date:                Wed, 19 Nov 2025   Prob (F-statistic):                        0.00
-Time:                        11:21:55   Log-Likelihood:                     -1.0373e+05
+Date:                Sat, 22 Nov 2025   Prob (F-statistic):                        0.00
+Time:                        15:02:12   Log-Likelihood:                     -1.0373e+05
 No. Observations:               14976   AIC:                                  2.075e+05
 Df Residuals:                   14974   BIC:                                  2.075e+05
 Df Model:                           2                                                  

@@ -1,0 +1,78 @@
+# Запись истории команд начата 2025-11-22 17:07
+# Запись истории команд текущей сессии.  Учтите, что для запуска
+# этих команд в скрипте, возможно, придется внести некоторые изменения.
+nulldata 4461
+setobs 1  --cross-section
+dummify segment --drop-first
+dummify customer_type --drop-first
+dummify category --drop-first
+dummify sub_category --drop-first
+dummify city_x --drop-first
+dummify city_y --drop-first
+dummify store_type --drop-first
+dummify departure_season --drop-first
+rename 18 Dsegment_B2B
+rename 19 Dsegment_VIP
+rename 20 Dcustomer_type_LE
+rename 21 Dcategory_CLOTHS
+rename 22 Dcategory_DAMESTICALapp
+rename 23 Dcategory_SPORTGOODS
+rename 24 Dsub_category_ACCESSORIES
+rename 25 Dsub_category_UNISEX
+rename 26 Dsub_category_FEMALE
+rename 27 Dsub_category_SMALLMECH
+rename 28 Dsub_category_BIGMECH
+rename 29 Dsub_category_MOBILE
+rename 30 Dsub_category_MALE
+rename 31 Dsub_category_EXEQUIP
+rename 32 Dcity_x_NVS
+rename 33 Dcity_x_KSN
+rename 34 Dcity_x_NNV
+rename 35 Dcity_x_SPB
+rename 36 Dcity_x_SCH
+rename 37 Dcity_y_EKB
+rename 38 Dcity_y_MSC
+rename 39 Dcity_y_KSN
+rename 40 Dcity_y_KLN
+rename 41 Dcity_y_SPB
+rename 42 Dcity_y_VLD
+rename 43 Dcity_y_NNV
+rename 44 Dcity_y_NVS
+rename 45 Dcity_y_SCH
+rename 46 Dstore_type_WHOLESALE
+rename 47 Ddeparture_season_SUMMER
+rename 48 Ddeparture_season_AUTUMN
+rename 49 Ddeparture_season_WINTER
+# модель 1
+hsk cost 0 distance delivery_time_hours quantity total_mass_kg \
+  Dsegment_B2B Dsegment_VIP Dcustomer_type_LE Dcategory_CLOTHS \
+  Dcategory_DAMESTICALapp Dcategory_SPORTGOODS Dsub_category_ACCESSORIES \
+  Dsub_category_UNISEX Dsub_category_FEMALE Dsub_category_SMALLMECH \
+  Dsub_category_BIGMECH Dsub_category_MOBILE Dsub_category_MALE \
+  Dsub_category_EXEQUIP Dcity_x_NVS Dcity_x_KSN Dcity_x_NNV Dcity_x_SPB \
+  Dcity_x_SCH Dcity_y_EKB Dcity_y_MSC Dcity_y_KSN Dcity_y_KLN \
+  Dcity_y_SPB Dcity_y_VLD Dcity_y_NNV Dcity_y_NVS Dcity_y_SCH \
+  Dstore_type_WHOLESALE Ddeparture_season_SUMMER \
+  Ddeparture_season_AUTUMN Ddeparture_season_WINTER
+# store "C:\Users\lyaze\OneDrive\Рабочий стол\Логистика\SUM_PMI3-1_Econometrics\Датасеты\with_date\GRETL\sea.gdt" --gzipped=1
+# модель 1
+omit --auto=0.1
+# модель 2
+omit 0
+# модель 3
+omit Dcity_y_NNV
+# store "C:\Users\lyaze\OneDrive\Рабочий стол\Логистика\SUM_PMI3-1_Econometrics\Датасеты\with_date\GRETL\sea.gdt" --gzipped
+# модель 5
+ols cost 0 distance delivery_time_hours quantity total_mass_kg \
+  Dsegment_B2B Dsegment_VIP Dcustomer_type_LE Dcategory_CLOTHS \
+  Dcategory_DAMESTICALapp Dcategory_SPORTGOODS Dsub_category_ACCESSORIES \
+  Dsub_category_UNISEX Dsub_category_FEMALE Dsub_category_SMALLMECH \
+  Dsub_category_BIGMECH Dsub_category_MOBILE Dsub_category_MALE \
+  Dsub_category_EXEQUIP Dcity_x_NVS Dcity_x_KSN Dcity_x_NNV Dcity_x_SPB \
+  Dcity_x_SCH Dcity_y_EKB Dcity_y_MSC Dcity_y_KSN Dcity_y_KLN \
+  Dcity_y_SPB Dcity_y_VLD Dcity_y_NNV Dcity_y_NVS Dcity_y_SCH \
+  Dstore_type_WHOLESALE Ddeparture_season_SUMMER \
+  Ddeparture_season_AUTUMN Ddeparture_season_WINTER
+modtest --logs
+reset
+# store "C:\Users\lyaze\OneDrive\Рабочий стол\Логистика\SUM_PMI3-1_Econometrics\Датасеты\with_date\GRETL\sea.gdt" --gzipped
